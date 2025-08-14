@@ -1,0 +1,1746 @@
+[
+  {
+    "timestamp_utc": "2025-05-30T17:05:20.533Z",
+    "context_time": 1748624720533,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-21T19:09:46.507Z",
+    "context_time": 1753124986507,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-30T14:17:00.131Z",
+    "context_time": 1751293020131,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-19T07:30:42.760Z",
+    "context_time": 1752910242760,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-26T11:06:24.599Z",
+    "context_time": 1753527984599,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-29T09:33:14.363Z",
+    "context_time": 1751189594363,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-19T06:17:26.264Z",
+    "context_time": 1747635446264,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-23T06:19:21.186Z",
+    "context_time": 1753251561186,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-13T17:26:37.573Z",
+    "context_time": 1752427597573,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-18T10:15:36.702Z",
+    "context_time": 1750241736702,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-18T03:23:13.648Z",
+    "context_time": 1750216993648,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-10T09:16:55.019Z",
+    "context_time": 1749547015019,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-11T14:16:47.995Z",
+    "context_time": 1754921807995,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:17:25.558Z",
+    "context_time": 1752531445558,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-23T05:28:53.856Z",
+    "context_time": 1750656533856,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-03T10:39:08.025Z",
+    "context_time": 1754217548025,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:15:58.748Z",
+    "context_time": 1752527758748,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-08T05:41:58.356Z",
+    "context_time": 1749361318356,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-19T22:38:03.819Z",
+    "context_time": 1752964683819,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-06-18T11:20:38.713Z",
+    "context_time": 1750245638713,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-13T05:41:30.389Z",
+    "context_time": 1749793290389,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-23T09:15:31.146Z",
+    "context_time": 1750670131146,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-24T11:56:32.704Z",
+    "context_time": 1750766192704,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-21T12:43:53.620Z",
+    "context_time": 1750509833620,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-08T05:41:58.448Z",
+    "context_time": 1749361318448,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-01T23:30:08.965Z",
+    "context_time": 1754091008965,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-30T20:05:16.238Z",
+    "context_time": 1751313916238,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-23T11:06:53.996Z",
+    "context_time": 1747998413996,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-20T19:22:25.754Z",
+    "context_time": 1747768945754,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-31T14:49:49.119Z",
+    "context_time": 1753973389119,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-08T12:24:34.152Z",
+    "context_time": 1754655874152,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-18T17:52:25.765Z",
+    "context_time": 1750269145765,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-25T15:21:36.659Z",
+    "context_time": 1750864896659,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-29T19:52:27.340Z",
+    "context_time": 1753818747340,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-12T14:16:07.711Z",
+    "context_time": 1752329767711,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-28T18:17:43.380Z",
+    "context_time": 1751134663380,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-03T05:55:05.987Z",
+    "context_time": 1748930105987,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-13T06:05:50.207Z",
+    "context_time": 1752386750207,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-10T21:48:49.989Z",
+    "context_time": 1752184129989,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-17T21:33:44.406Z",
+    "context_time": 1747517624406,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-01T23:29:46.382Z",
+    "context_time": 1754090986382,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,app-remote-control,user-modify-playback-state,playlist-modify-private,playlist-modify-public,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-06-07T02:07:35.603Z",
+    "context_time": 1749262055603,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-20T11:01:22.405Z",
+    "context_time": 1750417282405,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:15:16.012Z",
+    "context_time": 1754428516012,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-24T23:22:00.687Z",
+    "context_time": 1748128920687,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-06-23T16:49:34.751Z",
+    "context_time": 1750697374751,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-16T10:56:27.800Z",
+    "context_time": 1747392987800,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-23T06:19:21.279Z",
+    "context_time": 1753251561279,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-25T13:38:26.142Z",
+    "context_time": 1748180306142,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-02T14:34:51.615Z",
+    "context_time": 1751466891615,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-28T22:37:04.490Z",
+    "context_time": 1748471824490,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-18T06:01:03.644Z",
+    "context_time": 1752818463644,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-08T14:56:36.909Z",
+    "context_time": 1749394596909,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-03T05:55:05.883Z",
+    "context_time": 1748930105883,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-22T15:02:57.201Z",
+    "context_time": 1750604577201,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,playlist-modify-public,playlist-modify-private,app-remote-control,user-modify-playback-state,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-08-04T22:14:58.569Z",
+    "context_time": 1754345698569,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-05-30T10:54:43.009Z",
+    "context_time": 1748602483009,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-04T14:04:24.327Z",
+    "context_time": 1749045864327,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-18T11:13:24.076Z",
+    "context_time": 1747566804076,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-19T19:10:32.089Z",
+    "context_time": 1747681832089,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-16T14:46:59.153Z",
+    "context_time": 1747406819153,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-12T03:46:04Z",
+    "context_time": 1754970364000,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-11T13:19:22.872Z",
+    "context_time": 1749647962872,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-04T11:24:28.615Z",
+    "context_time": 1751628268615,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-02T04:11:00.079Z",
+    "context_time": 1754107860079,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-24T02:42:28.609Z",
+    "context_time": 1748054548609,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-03T05:18:10.103Z",
+    "context_time": 1751519890103,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-09T23:07:11.492Z",
+    "context_time": 1749510431492,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-06-03T10:07:18.861Z",
+    "context_time": 1748945238861,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-08T05:43:06.704Z",
+    "context_time": 1751953386704,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:16:09.199Z",
+    "context_time": 1751930169199,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-28T07:17:32.467Z",
+    "context_time": 1753687052467,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-18T05:37:27.769Z",
+    "context_time": 1750225047769,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-13T06:05:50.292Z",
+    "context_time": 1752386750292,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-20T12:21:09.802Z",
+    "context_time": 1750422069802,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-27T13:25:45.334Z",
+    "context_time": 1753622745334,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-08T08:39:30.274Z",
+    "context_time": 1749371970274,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-28T23:15:01.015Z",
+    "context_time": 1748474101015,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-06-17T23:01:12.925Z",
+    "context_time": 1750201272925,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-03T22:45:46.095Z",
+    "context_time": 1751582746095,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:09:34.930Z",
+    "context_time": 1752527374930,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-28T21:39:52.067Z",
+    "context_time": 1753738792067,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-12T22:05:57.608Z",
+    "context_time": 1755036357608,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-03T16:40:39.923Z",
+    "context_time": 1751560839923,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-10T17:36:58.449Z",
+    "context_time": 1754847418449,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,app-remote-control,user-modify-playback-state,playlist-modify-private,playlist-modify-public,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-05-22T18:27:28.827Z",
+    "context_time": 1747938448827,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-30T14:35:41.757Z",
+    "context_time": 1748615741757,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-30T12:52:22.715Z",
+    "context_time": 1753879942715,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-10T02:21:07.096Z",
+    "context_time": 1754792467096,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-30T23:02:44.354Z",
+    "context_time": 1748646164354,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-18T13:41:06.383Z",
+    "context_time": 1747575666383,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-24T21:07:02.709Z",
+    "context_time": 1748120822709,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-25T07:25:05.337Z",
+    "context_time": 1753428305337,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-20T23:31:52.895Z",
+    "context_time": 1747783912895,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-21T03:48:13.898Z",
+    "context_time": 1753069693898,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-15T22:40:46.602Z",
+    "context_time": 1752619246602,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-12T22:48:07.082Z",
+    "context_time": 1752360487082,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-23T05:28:53.763Z",
+    "context_time": 1750656533763,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-08T12:55:53.158Z",
+    "context_time": 1751979353158,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-31T18:23:23.740Z",
+    "context_time": 1748715803740,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-12T11:41:28.796Z",
+    "context_time": 1752320488796,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-07T19:36:09.936Z",
+    "context_time": 1749324969936,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-29T05:57:50.757Z",
+    "context_time": 1748498270757,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-23T22:31:55.488Z",
+    "context_time": 1753309915488,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-19T13:39:02.036Z",
+    "context_time": 1752932342036,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-13T23:03:59.616Z",
+    "context_time": 1749855839616,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-06-07T09:44:23.996Z",
+    "context_time": 1749289463996,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-09T22:13:07.836Z",
+    "context_time": 1752099187836,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-05T23:06:45.259Z",
+    "context_time": 1749164805259,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-08-07T03:55:38.445Z",
+    "context_time": 1754538938445,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-16T12:02:37.333Z",
+    "context_time": 1747396957333,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-06T10:39:05.610Z",
+    "context_time": 1749206345610,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-28T05:20:32.632Z",
+    "context_time": 1751088032632,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-26T23:59:42.642Z",
+    "context_time": 1750982382642,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-21T22:58:04.187Z",
+    "context_time": 1750546684187,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-06-21T14:22:46.601Z",
+    "context_time": 1750515766601,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-02T01:39:27.645Z",
+    "context_time": 1748828367645,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-27T19:41:52.324Z",
+    "context_time": 1748374912324,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:33:33.179Z",
+    "context_time": 1754753613179,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-27T22:27:11.318Z",
+    "context_time": 1753655231318,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-27T15:01:40.614Z",
+    "context_time": 1753628500614,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-30T11:04:09.864Z",
+    "context_time": 1751281449864,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-17T01:25:27.242Z",
+    "context_time": 1752715527242,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-27T20:55:28.293Z",
+    "context_time": 1751057728293,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-15T18:31:41.863Z",
+    "context_time": 1750012301863,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-15T14:22:40.185Z",
+    "context_time": 1752589360185,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-13T05:41:30.473Z",
+    "context_time": 1749793290473,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-16T23:36:10.213Z",
+    "context_time": 1747438570213,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-05-29T05:57:50.850Z",
+    "context_time": 1748498270850,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-12T03:46:03.902Z",
+    "context_time": 1754970363902,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-22T10:42:27.255Z",
+    "context_time": 1750588947255,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-24T17:03:41.810Z",
+    "context_time": 1753376621810,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-05T10:25:23.513Z",
+    "context_time": 1754389523513,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-28T04:24:29.186Z",
+    "context_time": 1753676669186,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-28T13:37:00.247Z",
+    "context_time": 1751117820247,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-13T12:25:40.238Z",
+    "context_time": 1749817540238,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-12T22:02:02.709Z",
+    "context_time": 1752357722709,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-06T18:56:16.746Z",
+    "context_time": 1754506576746,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-19T22:51:55.256Z",
+    "context_time": 1752965515256,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-14T17:39:17.094Z",
+    "context_time": 1749922757094,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-21T11:15:42.761Z",
+    "context_time": 1750504542761,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-07T03:55:38.547Z",
+    "context_time": 1754538938547,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-15T16:38:08.304Z",
+    "context_time": 1747327088304,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-18T15:48:10.401Z",
+    "context_time": 1747583290401,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-13T11:20:25.906Z",
+    "context_time": 1749813625906,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-06T14:28:59.584Z",
+    "context_time": 1749220139584,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:11:03.442Z",
+    "context_time": 1752754263442,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-20T23:03:53.345Z",
+    "context_time": 1750460633345,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-25T22:56:59.456Z",
+    "context_time": 1750892219456,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-07T22:45:04.258Z",
+    "context_time": 1751928304258,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-30T18:42:38.789Z",
+    "context_time": 1753900958789,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-28T21:29:50.670Z",
+    "context_time": 1748467790670,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,playlist-modify-public,playlist-modify-private,app-remote-control,user-modify-playback-state,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-08-09T04:47:31.657Z",
+    "context_time": 1754714851657,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-08T21:03:05.862Z",
+    "context_time": 1749416585862,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:39:46.950Z",
+    "context_time": 1753479586950,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-17T01:27:49.694Z",
+    "context_time": 1750123669694,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-05T11:05:33.455Z",
+    "context_time": 1749121533455,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-12T09:43:40.963Z",
+    "context_time": 1752313420963,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-09T04:41:32.318Z",
+    "context_time": 1749444092318,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-29T12:21:27.930Z",
+    "context_time": 1751199687930,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-08T22:07:50.862Z",
+    "context_time": 1752012470862,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-07T09:52:51.679Z",
+    "context_time": 1751881971679,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-31T11:25:48.709Z",
+    "context_time": 1748690748709,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-22T13:45:15.129Z",
+    "context_time": 1750599915129,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,playlist-modify-public,playlist-modify-private,app-remote-control,user-modify-playback-state,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-07-18T17:41:28.477Z",
+    "context_time": 1752860488477,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-08T02:00:05.280Z",
+    "context_time": 1749348005280,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-29T22:51:09.325Z",
+    "context_time": 1751237469325,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-05-20T21:48:48.694Z",
+    "context_time": 1747777728694,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-02T04:11:00.170Z",
+    "context_time": 1754107860170,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-20T22:01:13.901Z",
+    "context_time": 1750456873901,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-06T00:13:18.715Z",
+    "context_time": 1754439198715,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-29T17:12:29.825Z",
+    "context_time": 1753809149825,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-12T23:04:14.987Z",
+    "context_time": 1752361454987,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:09:38.260Z",
+    "context_time": 1752527378260,
+    "message_client_id": "d7df0887fb71494ea994202cb473eae7",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,radio-modify,user-follow-read,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,radio-read,user-library-modify,playlist-modify-public,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "c3aa2209-701b-493b-9e08-541c10fb6f3c"
+  },
+  {
+    "timestamp_utc": "2025-06-06T02:01:30.594Z",
+    "context_time": 1749175290594,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-02T20:58:20.362Z",
+    "context_time": 1754168300362,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-31T13:12:11.283Z",
+    "context_time": 1748697131283,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-05-27T01:05:16.218Z",
+    "context_time": 1748307916218,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-27T11:33:35.551Z",
+    "context_time": 1751024015551,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-17T16:24:22.583Z",
+    "context_time": 1752769462583,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-09T21:03:08.690Z",
+    "context_time": 1754773388690,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:11:39.300Z",
+    "context_time": 1752531099300,
+    "message_client_id": "d7df0887fb71494ea994202cb473eae7",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,radio-modify,user-follow-read,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,radio-read,user-library-modify,playlist-modify-public,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "c3aa2209-701b-493b-9e08-541c10fb6f3c"
+  },
+  {
+    "timestamp_utc": "2025-07-18T08:19:59.513Z",
+    "context_time": 1752826799513,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-11T22:41:53.876Z",
+    "context_time": 1752273713876,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-08-08T02:11:03.044Z",
+    "context_time": 1754619063044,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-08T15:44:41.527Z",
+    "context_time": 1754667881527,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-01T23:08:53.446Z",
+    "context_time": 1748819333446,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-06-28T05:20:32.542Z",
+    "context_time": 1751088032542,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-12T16:04:50.223Z",
+    "context_time": 1755014690223,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-24T06:07:47.022Z",
+    "context_time": 1748066867022,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-08-06T15:31:32.678Z",
+    "context_time": 1754494292678,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-18T05:37:27.866Z",
+    "context_time": 1750225047866,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-06T20:54:26.009Z",
+    "context_time": 1751835266009,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-22T19:51:09.355Z",
+    "context_time": 1747943469355,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-30T05:09:09.183Z",
+    "context_time": 1748581749183,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-27T03:17:49.026Z",
+    "context_time": 1753586269026,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,app-remote-control,user-modify-playback-state,playlist-modify-private,playlist-modify-public,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-07-21T23:28:45.102Z",
+    "context_time": 1753140525102,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,app-remote-control,user-modify-playback-state,playlist-modify-private,playlist-modify-public,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-07-05T21:35:34.988Z",
+    "context_time": 1751751334988,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-23T06:49:47.860Z",
+    "context_time": 1753253387860,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-12T10:46:57.479Z",
+    "context_time": 1749725217479,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-12T17:12:53.507Z",
+    "context_time": 1749748373507,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-04T13:16:40.526Z",
+    "context_time": 1754313400526,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-19T06:17:26.032Z",
+    "context_time": 1747635446032,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-27T14:43:35.520Z",
+    "context_time": 1751035415520,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-24T06:07:46.930Z",
+    "context_time": 1748066866930,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-10T21:28:39.018Z",
+    "context_time": 1752182919018,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,app-remote-control,user-modify-playback-state,playlist-modify-private,playlist-modify-public,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-08-01T15:24:37.405Z",
+    "context_time": 1754061877405,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,radio-modify,user-library-modify,radio-read,user-read-private,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-08-08T22:12:59.158Z",
+    "context_time": 1754691179158,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:32:30.399Z",
+    "context_time": 1754753550399,
+    "message_client_id": "43bc193d1929459b9a80cb827a140960",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,app-remote-control,user-modify-playback-state,playlist-modify-private,playlist-modify-public,user-read-playback-state,user-read-currently-playing,user-read-private",
+    "message_session_created_at": null,
+    "message_session_id": "b7d0cd50-2f2b-5e39-b54e-2d396aa82997"
+  },
+  {
+    "timestamp_utc": "2025-07-01T15:08:41.148Z",
+    "context_time": 1751382521148,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-05-28T06:21:49.814Z",
+    "context_time": 1748413309814,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-07-08T05:43:06.820Z",
+    "context_time": 1751953386820,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-03T05:18:10.028Z",
+    "context_time": 1751519890028,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-28T04:24:29.092Z",
+    "context_time": 1753676669092,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-06-19T21:10:28.367Z",
+    "context_time": 1750367428367,
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,user-follow-read,radio-modify,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,user-library-modify,radio-read,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "539edc22-5cb8-50fa-8936-68a88eb4b77d"
+  },
+  {
+    "timestamp_utc": "2025-06-08T16:09:02.326Z",
+    "context_time": 1749398942326,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  },
+  {
+    "timestamp_utc": "2025-07-31T22:18:46.111Z",
+    "context_time": 1754000326111,
+    "message_client_id": "ea91700820f3421cba72ebb8ec14c54c",
+    "message_scope": "",
+    "message_session_created_at": null,
+    "message_session_id": "6225138e-04b2-5b4a-b7a6-1f4df1150ab5"
+  },
+  {
+    "timestamp_utc": "2025-07-18T06:01:03.478Z",
+    "context_time": 1752818463478,
+    "message_client_id": "69d19db6fcb441dd85023c7683c9f771",
+    "message_scope": "user-read-playback-state,user-read-recently-played",
+    "message_session_created_at": null,
+    "message_session_id": "731a035b-781f-5dca-b9db-473023e2d58d"
+  }
+]

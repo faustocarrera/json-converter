@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp_utc": "2025-05-27T19:41:46.684Z",
+    "context_application_version": "9.0.46.496",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748374923603,
+    "context_time": 1748374906684,
+    "message_components": "SocialListeningInvite",
+    "message_reason": "FailureOther"
+  }
+]

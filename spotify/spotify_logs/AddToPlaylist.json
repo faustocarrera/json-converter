@@ -1,0 +1,382 @@
+[
+  {
+    "message_playlist_uri": "spotify:playlist:7gtuV4IuSJLoKGPnGQMMvw",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:36:34.029Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753821510,
+    "context_time": 1754753794029,
+    "message_item_uris": [
+      "spotify:track:4RvWPyQ5RL0ao9LPZeSouE"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:5wmDhgfCHkBkauknSfOc6h",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:36:44.584Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753821510,
+    "context_time": 1754753804584,
+    "message_item_uris": [
+      "spotify:track:0Qv7xi6uPSqH2k82tOkGSt"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:24zUR8hMtHtKPlD96znh3h",
+    "message_source_context_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "message_source_view_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "timestamp_utc": "2025-08-09T15:33:54.779Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753641439,
+    "context_time": 1754753634779,
+    "message_item_uris": [
+      "spotify:track:2zbXf2qz52eXmw4dpHWWq6"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:5wmDhgfCHkBkauknSfOc6h",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:36:00.986Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753761470,
+    "context_time": 1754753760986,
+    "message_item_uris": [
+      "spotify:track:5lwQGZYF4BXOzFtXc5zk8q"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:21N9hm6XN0nFW0QsYwF17N",
+    "message_source_context_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "message_source_view_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "timestamp_utc": "2025-08-09T15:33:54.745Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753641439,
+    "context_time": 1754753634745,
+    "message_item_uris": [
+      "spotify:track:2zbXf2qz52eXmw4dpHWWq6"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:5wmDhgfCHkBkauknSfOc6h",
+    "message_source_context_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "message_source_view_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "timestamp_utc": "2025-08-09T15:34:07.595Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753671498,
+    "context_time": 1754753647595,
+    "message_item_uris": [
+      "spotify:track:0Xam0zVac3hKWWN4OQ5Gdr"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:5wmDhgfCHkBkauknSfOc6h",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:35:33.191Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753761470,
+    "context_time": 1754753733191,
+    "message_item_uris": [
+      "spotify:track:4RvWPyQ5RL0ao9LPZeSouE"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:67DBgy3kuOMDxWUb3VVQYs",
+    "message_source_context_uri": "spotify:playlist:1M6TbYJvq5wWppH5HK3Gng",
+    "message_source_view_uri": "spotify:now-playing-view-v2",
+    "timestamp_utc": "2025-07-12T22:32:05.779Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752359543844,
+    "context_time": 1752359525779,
+    "message_item_uris": [
+      "spotify:track:2Die7iC9WPpe37GP0f98fw"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:2XqxAdI3NEw8caXjUQzAH5",
+    "message_source_context_uri": "spotify:episode:2S5peBb7JqPhn77HyfeyLp",
+    "message_source_view_uri": "spotify:episode:2S5peBb7JqPhn77HyfeyLp",
+    "timestamp_utc": "2025-07-07T23:17:35.662Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930266628,
+    "context_time": 1751930255662,
+    "message_item_uris": [
+      "spotify:episode:2S5peBb7JqPhn77HyfeyLp"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:67DBgy3kuOMDxWUb3VVQYs",
+    "message_source_context_uri": "spotify:playlist:1M6TbYJvq5wWppH5HK3Gng",
+    "message_source_view_uri": "spotify:now-playing-view-v2",
+    "timestamp_utc": "2025-07-12T22:30:33.831Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752359453776,
+    "context_time": 1752359433831,
+    "message_item_uris": [
+      "spotify:track:4TGLC4nSVOHO45xbCrjHz6"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:7gtuV4IuSJLoKGPnGQMMvw",
+    "message_source_context_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "message_source_view_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "timestamp_utc": "2025-08-09T15:34:07.689Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753671498,
+    "context_time": 1754753647689,
+    "message_item_uris": [
+      "spotify:track:0Xam0zVac3hKWWN4OQ5Gdr"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:7gtuV4IuSJLoKGPnGQMMvw",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:36:58.925Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753821510,
+    "context_time": 1754753818925,
+    "message_item_uris": [
+      "spotify:track:0aF9m87P8Tja3NUMv4DfHt"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:67DBgy3kuOMDxWUb3VVQYs",
+    "message_source_context_uri": "spotify:playlist:1M6TbYJvq5wWppH5HK3Gng",
+    "message_source_view_uri": "spotify:now-playing-view-v2",
+    "timestamp_utc": "2025-07-12T22:31:39.142Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752359513954,
+    "context_time": 1752359499142,
+    "message_item_uris": [
+      "spotify:track:4UXE0ZLGIoLUOFqTECzoQe"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:7vrH3BHHUqzRlugumxJRaS",
+    "message_source_context_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "message_source_view_uri": "spotify:playlist:1MRQ2ePyc5kt2TFsy2n58i",
+    "timestamp_utc": "2025-08-05T21:15:38.852Z",
+    "context_application_version": "9.0.66.655",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754428541401,
+    "context_time": 1754428538852,
+    "message_item_uris": [
+      "spotify:track:3SKH53SPQbEnZR4cJPVaz2"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:5wmDhgfCHkBkauknSfOc6h",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:35:46.146Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753761470,
+    "context_time": 1754753746146,
+    "message_item_uris": [
+      "spotify:track:2gQaQUhDCNGfBVXTvxAmXQ"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:5wmDhgfCHkBkauknSfOc6h",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:36:58.994Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753821510,
+    "context_time": 1754753818994,
+    "message_item_uris": [
+      "spotify:track:0aF9m87P8Tja3NUMv4DfHt"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:7vrH3BHHUqzRlugumxJRaS",
+    "message_source_context_uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+    "message_source_view_uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+    "timestamp_utc": "2025-08-09T21:03:26.902Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754847422265,
+    "context_time": 1754773406902,
+    "message_item_uris": [
+      "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:7gtuV4IuSJLoKGPnGQMMvw",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:36:01.078Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753761470,
+    "context_time": 1754753761078,
+    "message_item_uris": [
+      "spotify:track:5lwQGZYF4BXOzFtXc5zk8q"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:7gtuV4IuSJLoKGPnGQMMvw",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:36:44.501Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753821510,
+    "context_time": 1754753804501,
+    "message_item_uris": [
+      "spotify:track:0Qv7xi6uPSqH2k82tOkGSt"
+    ],
+    "message_new_playlist": false
+  },
+  {
+    "message_playlist_uri": "spotify:playlist:7gtuV4IuSJLoKGPnGQMMvw",
+    "message_source_context_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "message_source_view_uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU",
+    "timestamp_utc": "2025-08-09T15:36:22.180Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753791418,
+    "context_time": 1754753782180,
+    "message_item_uris": [
+      "spotify:track:2gQaQUhDCNGfBVXTvxAmXQ"
+    ],
+    "message_new_playlist": false
+  }
+]

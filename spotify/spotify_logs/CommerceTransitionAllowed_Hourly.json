@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp_utc": "2025-06-11T15:16:44.294Z",
+    "context_time": 1749655004294,
+    "message_consumption_period_ids": [
+      "01_056112"
+    ],
+    "message_destination_period_ids": [
+      "01_056112"
+    ],
+    "message_is_transition_allowed": true,
+    "message_request_id": "daed44f5-12ca-43cc-b14e-cd0ee538b6fe",
+    "message_subscription_period_ids": [
+      "01_056112"
+    ],
+    "message_transition_reason": [
+    ]
+  }
+]

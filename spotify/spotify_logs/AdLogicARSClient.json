@@ -1,0 +1,261 @@
+[
+  {
+    "timestamp_utc": "2025-07-21T23:29:31.003Z",
+    "context_time": 1753140571003,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T11:13:00.868Z",
+    "context_time": 1752750780868,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:43:53.601Z",
+    "context_time": 1753479833601,
+    "message_slots": [
+      "browse"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:34:10.748Z",
+    "context_time": 1754753650748,
+    "message_slots": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:14:47.093Z",
+    "context_time": 1754428487093,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:33:19.014Z",
+    "context_time": 1754753599014,
+    "message_slots": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-18T19:38:37.517Z",
+    "context_time": 1752867517517,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-08T14:47:48.258Z",
+    "context_time": 1754664468258,
+    "message_slots": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-08T12:23:55.999Z",
+    "context_time": 1754655835999,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:33:19.625Z",
+    "context_time": 1754753599625,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:43:51.124Z",
+    "context_time": 1753479831124,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-18T17:40:59.604Z",
+    "context_time": 1752860459604,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-18T20:27:56.812Z",
+    "context_time": 1752870476812,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-08T14:47:48.463Z",
+    "context_time": 1754664468463,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:14:47.410Z",
+    "context_time": 1754428487410,
+    "message_slots": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-08T15:12:10.689Z",
+    "context_time": 1754665930689,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-19T13:38:44.347Z",
+    "context_time": 1752932324347,
+    "message_slots": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T21:02:58.744Z",
+    "context_time": 1754773378744,
+    "message_slots": [
+      "browse"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-06T15:31:04.001Z",
+    "context_time": 1754494264001,
+    "message_slots": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-30T18:38:51.766Z",
+    "context_time": 1753900731766,
+    "message_slots": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:34:20.875Z",
+    "context_time": 1754753660875,
+    "message_slots": [
+      "browse"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:14:44.572Z",
+    "context_time": 1754428484572,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-29T19:52:05.007Z",
+    "context_time": 1753818725007,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:09:22.779Z",
+    "context_time": 1752527362779,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-21T23:29:30.687Z",
+    "context_time": 1753140570687,
+    "message_slots": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T13:00:30.032Z",
+    "context_time": 1752757230032,
+    "message_slots": [
+      "browse"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-18T17:40:58.200Z",
+    "context_time": 1752860458200,
+    "message_slots": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-30T18:38:52.085Z",
+    "context_time": 1753900732085,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:15:44.809Z",
+    "context_time": 1754428544809,
+    "message_slots": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-29T19:52:03.141Z",
+    "context_time": 1753818723141,
+    "message_slots": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:59:42.582Z",
+    "context_time": 1752757182582,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-18T19:38:37.155Z",
+    "context_time": 1752867517155,
+    "message_slots": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-19T13:38:44.622Z",
+    "context_time": 1752932324622,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-08T15:44:19.719Z",
+    "context_time": 1754667859719,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:10:28.744Z",
+    "context_time": 1752754228744,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-27T15:01:38.793Z",
+    "context_time": 1753628498793,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-06T15:31:05.067Z",
+    "context_time": 1754494265067,
+    "message_slots": [
+      "native-ad-home-shelf"
+    ]
+  }
+]

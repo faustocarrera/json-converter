@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp_utc": "2025-07-20T04:57:34.230Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752996710723,
+    "context_time": 1752987454230,
+    "message_audio_driver": "AndroidAudioDriver",
+    "message_buffer_size": 999424,
+    "message_buffered_ms": 1300,
+    "message_driver_prebuffer_ms": null,
+    "message_estimated_frame_loss": 0,
+    "message_file_byte_offset": 1703936,
+    "message_file_byte_total": 2962720,
+    "message_file_id": "KRvPcMyMXN6EgostnjlgJrPrfpQ=",
+    "message_max_buffer_size": 1048576,
+    "message_playback_id": "oHfnS9J5TTZCzE33ekCMlA==",
+    "message_position_ms": 59751,
+    "message_target_buffer": 1048576,
+    "message_total_prebuffer_ms": null,
+    "message_track": "spotify:track:2tpWsVSb9UEmDRxAl1zhX1"
+  }
+]

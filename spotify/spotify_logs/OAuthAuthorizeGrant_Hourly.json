@@ -1,0 +1,272 @@
+[
+  {
+    "timestamp_utc": "2025-08-09T15:32:38.977Z",
+    "context_time": 1754753558977,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.68.632 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-27T03:17:51.980Z",
+    "context_time": 1753586271980,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.64.608 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-21T23:29:03.198Z",
+    "context_time": 1753140543198,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.62.622 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-06-22T13:45:19.809Z",
+    "context_time": 1750599919809,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.54.518 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-06-22T15:03:01.078Z",
+    "context_time": 1750604581078,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.54.518 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-10T17:37:02.599Z",
+    "context_time": 1754847422599,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.68.632 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-06-22T15:03:01.042Z",
+    "context_time": 1750604581042,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.54.518 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-10T17:37:02.651Z",
+    "context_time": 1754847422651,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.68.632 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-06-22T13:45:32.100Z",
+    "context_time": 1750599932100,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.54.518 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-05-28T21:29:54.266Z",
+    "context_time": 1748467794266,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.46.496 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-06-22T15:03:09.593Z",
+    "context_time": 1750604589593,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.54.518 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:32:34.133Z",
+    "context_time": 1754753554133,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.68.632 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-05-28T21:29:54.282Z",
+    "context_time": 1748467794282,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.46.496 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-01T23:29:50.788Z",
+    "context_time": 1754090990788,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.66.655 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-05-28T21:30:13.575Z",
+    "context_time": 1748467813575,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.46.496 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-27T03:17:59.729Z",
+    "context_time": 1753586279729,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.64.608 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-10T17:37:06.542Z",
+    "context_time": 1754847426542,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.68.632 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-01T23:30:07.344Z",
+    "context_time": 1754091007344,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.66.655 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-10T21:28:42.278Z",
+    "context_time": 1752182922278,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.60.614 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-27T03:17:51.970Z",
+    "context_time": 1753586271970,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.64.608 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-21T23:28:48.955Z",
+    "context_time": 1753140528955,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.62.622 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-10T21:28:58.806Z",
+    "context_time": 1752182938806,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.60.614 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-01T23:29:50.771Z",
+    "context_time": 1754090990771,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.66.655 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:32:34.123Z",
+    "context_time": 1754753554123,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.68.632 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-08-01T23:30:00.964Z",
+    "context_time": 1754091000964,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.66.655 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-10T21:28:42.165Z",
+    "context_time": 1752182922165,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.60.614 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-06-22T13:45:19.815Z",
+    "context_time": 1750599919815,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.54.518 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-07-21T23:28:48.957Z",
+    "context_time": 1753140528957,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.62.622 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-05-28T21:30:12.812Z",
+    "context_time": 1748467812812,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.46.496 Android/33 (moto g72)"
+  },
+  {
+    "timestamp_utc": "2025-05-28T21:30:29.791Z",
+    "context_time": 1748467829791,
+    "message_client_app_id": "com.melodis.midomiMusicIdentifier.freemium:AB3FC8F47C2A923421FCFA43928247358CE8301D",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "soundhound://auth/spotify",
+    "message_response_type": "legacy-token",
+    "message_user_agent": "Spotify/9.0.46.496 Android/33 (moto g72)"
+  }
+]

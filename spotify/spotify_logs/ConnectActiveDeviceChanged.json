@@ -1,0 +1,3372 @@
+[
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:27:36.605Z",
+    "context_time": 1747578456605,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 97900
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T13:23:40.491Z",
+    "context_time": 1751203420491,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "l7yeApLUBZRisuBSoQCBUQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-05T11:21:19.054Z",
+    "context_time": 1749122479054,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:23:13.111Z",
+    "context_time": 1747578193111,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 50920
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "TUO77E9uI+PQKOGq/8HeaA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T11:43:21.538Z",
+    "context_time": 1748691801538,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 378195
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "zjUCBvJWgfpDRo9fdqJ7IQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-13T11:53:16.761Z",
+    "context_time": 1749815596761,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 11644
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-09T15:33:33.019Z",
+    "context_time": 1754753613019,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 96412467
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "aBQUNUJ8x+WgpvaYh94EUQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-08T17:53:58.743Z",
+    "context_time": 1754675638743,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 7063340
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T20:23:14.188Z",
+    "context_time": 1747772594188,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 110607
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:44:37.196Z",
+    "context_time": 1747583077196,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T18:31:58.511Z",
+    "context_time": 1752863518511,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 77036
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T12:20:54.844Z",
+    "context_time": 1751026854844,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "9/Yp7R5521LeQsR6Cv63Dw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T13:35:13.028Z",
+    "context_time": 1749303313028,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "XJc644K3vTLJkTOKMgpRIw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T14:27:26.652Z",
+    "context_time": 1752330446652,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "UuiPaG1R204RB556iuRzGQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T11:20:11.485Z",
+    "context_time": 1749208811485,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 77272
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-27T15:01:40.427Z",
+    "context_time": 1753628500427,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T22:02:02.509Z",
+    "context_time": 1752357722509,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 27304864
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T14:35:41.619Z",
+    "context_time": 1748615741619,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T15:17:54.918Z",
+    "context_time": 1748618274918,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 427812
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T14:28:59.451Z",
+    "context_time": 1749220139451,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 10020302
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:17:20.027Z",
+    "context_time": 1747581440027,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "i2XbM7nlIEZ0NlZhyju5TQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-16T12:08:34.277Z",
+    "context_time": 1747397314277,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 322484
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T10:39:05.489Z",
+    "context_time": 1749206345489,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-17T12:29:21.777Z",
+    "context_time": 1752755361777,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T19:33:32.156Z",
+    "context_time": 1747769612156,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T14:22:10.224Z",
+    "context_time": 1751120530224,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 32327
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T19:55:39.504Z",
+    "context_time": 1752868539504,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-20T22:01:13.743Z",
+    "context_time": 1750456873743,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T11:48:15.657Z",
+    "context_time": 1752320895657,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 406569
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "idMgoRSBTFUrmbZ/tjwNAw==",
+    "timestamp_utc": "2025-08-08T12:57:17.630Z",
+    "context_time": 1754657837630,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 637078
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T15:18:17.500Z",
+    "context_time": 1750519097500,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 54196
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "qotmMJ/6Ru9/15xRcx7vhw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T20:19:03.287Z",
+    "context_time": 1749327543287,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 2420795
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-19T14:29:57.471Z",
+    "context_time": 1752935397471,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 1033170
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "UuiPaG1R204RB556iuRzGQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T11:16:15.538Z",
+    "context_time": 1749208575538,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 17011
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:48:40.728Z",
+    "context_time": 1747583320728,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:41:36.933Z",
+    "context_time": 1747582896933,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "sOI7JLLuavRXMkJkjuB7jA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-24T21:07:02.545Z",
+    "context_time": 1748120822545,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 120699778
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T15:44:54.742Z",
+    "context_time": 1748619894742,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:18:49.949Z",
+    "context_time": 1747577929949,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "ELbqN+Px9X39gGRRivgwlA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-25T21:44:13.593Z",
+    "context_time": 1753479853593,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T20:37:44.073Z",
+    "context_time": 1747773464073,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 90670
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_previous_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "timestamp_utc": "2025-05-30T18:15:25.598Z",
+    "context_time": 1748628925598,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 3719725
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Vwftx2Cea3/QnIv1GVBFhQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T01:46:43.536Z",
+    "context_time": 1749347203536,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 6535748
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T20:08:01.724Z",
+    "context_time": 1749413281724,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 14020555
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-01T23:30:08.817Z",
+    "context_time": 1754091008817,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T22:02:02.510Z",
+    "context_time": 1752357722510,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-01T23:30:08.816Z",
+    "context_time": 1754091008816,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 462486081
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "aBQUNUJ8x+WgpvaYh94EUQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-08T15:44:41.341Z",
+    "context_time": 1754667881341,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:00:32.487Z",
+    "context_time": 1747576832487,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "LDarC9XzkhD/PkrFu9+bcw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-27T19:41:52.162Z",
+    "context_time": 1748374912162,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T16:34:44.472Z",
+    "context_time": 1751128484472,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 42704
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T14:20:46.378Z",
+    "context_time": 1751120446378,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "i2XbM7nlIEZ0NlZhyju5TQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-16T11:33:39.109Z",
+    "context_time": 1747395219109,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 49733
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T14:54:40.069Z",
+    "context_time": 1748616880069,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 53571
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T19:30:23.199Z",
+    "context_time": 1752867023199,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T15:58:39.974Z",
+    "context_time": 1751126319974,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "aBQUNUJ8x+WgpvaYh94EUQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-08T15:44:41.339Z",
+    "context_time": 1754667881339,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 171585033
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "sOI7JLLuavRXMkJkjuB7jA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-22T18:27:28.695Z",
+    "context_time": 1747938448695,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-07T23:18:23.668Z",
+    "context_time": 1751930303668,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 16850
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Vwftx2Cea3/QnIv1GVBFhQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T01:46:43.541Z",
+    "context_time": 1749347203541,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T10:54:42.870Z",
+    "context_time": 1748602482870,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 224335727
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-08T22:34:56.626Z",
+    "context_time": 1752014096626,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 16256
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T09:12:19.920Z",
+    "context_time": 1751188339920,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "UuiPaG1R204RB556iuRzGQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T11:18:12.275Z",
+    "context_time": 1749208692275,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-23T16:49:34.610Z",
+    "context_time": 1750697374610,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T13:23:40.490Z",
+    "context_time": 1751203420490,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 12977667
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T13:38:15.247Z",
+    "context_time": 1751117895247,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 4000
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "idMgoRSBTFUrmbZ/tjwNAw==",
+    "timestamp_utc": "2025-08-08T12:57:18.557Z",
+    "context_time": 1754657838557,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 638005
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-17T12:11:02.810Z",
+    "context_time": 1752754262810,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-09T21:03:08.572Z",
+    "context_time": 1754773388572,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-20T22:01:13.743Z",
+    "context_time": 1750456873743,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 39590834
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:55:20.761Z",
+    "context_time": 1747583720761,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T17:05:20.163Z",
+    "context_time": 1748624720163,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 4036239
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T13:23:40.488Z",
+    "context_time": 1751203420488,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 12977665
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T11:41:28.568Z",
+    "context_time": 1752320488568,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "TUO77E9uI+PQKOGq/8HeaA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T14:26:41.172Z",
+    "context_time": 1748701601172,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 124301
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:50:44.393Z",
+    "context_time": 1747583444393,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "XJc644K3vTLJkTOKMgpRIw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T14:09:16.208Z",
+    "context_time": 1752329356208,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 89866
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-18T10:21:28.060Z",
+    "context_time": 1750242088060,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 350889
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T15:39:58.056Z",
+    "context_time": 1749397198056,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 103244
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T14:28:59.452Z",
+    "context_time": 1749220139452,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "timestamp_utc": "2025-06-28T17:17:15.957Z",
+    "context_time": 1751131035957,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 1388568
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T10:39:05.489Z",
+    "context_time": 1749206345489,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 80372998
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T20:19:31.336Z",
+    "context_time": 1752869971336,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "LDarC9XzkhD/PkrFu9+bcw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-27T19:41:52.162Z",
+    "context_time": 1748374912162,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 254085360
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-17T13:00:39.132Z",
+    "context_time": 1752757239132,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 1003504
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T18:10:40.181Z",
+    "context_time": 1751134240181,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-14T21:09:34.026Z",
+    "context_time": 1752527374026,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T20:29:22.573Z",
+    "context_time": 1751056162573,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 29411392
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "UuiPaG1R204RB556iuRzGQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T10:52:27.650Z",
+    "context_time": 1749207147650,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 801284
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T11:05:38.997Z",
+    "context_time": 1749294338997,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 505213
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "TUO77E9uI+PQKOGq/8HeaA==",
+    "timestamp_utc": "2025-05-31T11:38:09.711Z",
+    "context_time": 1748691489711,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 66368
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T21:52:14.538Z",
+    "context_time": 1749419534538,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 16881
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "timestamp_utc": "2025-06-21T15:38:10.875Z",
+    "context_time": 1750520290875,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 141023
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T13:40:47.769Z",
+    "context_time": 1751118047769,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 47140
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-05T11:05:33.305Z",
+    "context_time": 1749121533305,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "i2XbM7nlIEZ0NlZhyju5TQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-16T10:56:27.661Z",
+    "context_time": 1747392987661,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 256146073
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "zjUCBvJWgfpDRo9fdqJ7IQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-13T12:16:05.450Z",
+    "context_time": 1749816965450,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 22426
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:15:13.466Z",
+    "context_time": 1747581313466,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "LDarC9XzkhD/PkrFu9+bcw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-27T19:49:29.981Z",
+    "context_time": 1748375369981,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-17T13:00:39.133Z",
+    "context_time": 1752757239133,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-19T14:29:57.472Z",
+    "context_time": 1752935397472,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "uvOY2N8NpLMb4ykUeSLL9g==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T11:07:06.755Z",
+    "context_time": 1748603226755,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T20:41:11.373Z",
+    "context_time": 1747773671373,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T09:56:49.837Z",
+    "context_time": 1749290209837,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 10777
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "mdifhpm7EhVsOMz2YaYTpg==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-23T11:31:32.125Z",
+    "context_time": 1747999892125,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 59471
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T14:22:29.629Z",
+    "context_time": 1750515749629,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-19T13:39:01.480Z",
+    "context_time": 1752932341480,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-30T18:42:38.635Z",
+    "context_time": 1753900958635,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T22:40:08.888Z",
+    "context_time": 1747608008888,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T21:05:33.420Z",
+    "context_time": 1751058333420,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "TUO77E9uI+PQKOGq/8HeaA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T11:43:21.539Z",
+    "context_time": 1748691801539,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T14:26:21.881Z",
+    "context_time": 1749392781881,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 7501
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "i2XbM7nlIEZ0NlZhyju5TQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-16T11:06:23.895Z",
+    "context_time": 1747393583895,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "sOI7JLLuavRXMkJkjuB7jA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T19:22:25.597Z",
+    "context_time": 1747768945597,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 159664282
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T14:59:03.274Z",
+    "context_time": 1749394743274,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 11025
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:15:57.184Z",
+    "context_time": 1747577757184,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "timestamp_utc": "2025-06-05T11:10:32.958Z",
+    "context_time": 1749121832958,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 298979
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:15:13.465Z",
+    "context_time": 1747581313465,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 2854020
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "timestamp_utc": "2025-05-30T10:56:48.336Z",
+    "context_time": 1748602608336,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 124756
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T11:33:35.422Z",
+    "context_time": 1751024015422,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 503865569
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T15:44:54.741Z",
+    "context_time": 1748619894741,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 812628
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T14:59:38.258Z",
+    "context_time": 1749394778258,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 2490
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:56:21.774Z",
+    "context_time": 1747583781774,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T14:20:46.395Z",
+    "context_time": 1751120446395,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "timestamp_utc": "2025-07-12T11:52:29.652Z",
+    "context_time": 1752321149652,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 251889
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "mdifhpm7EhVsOMz2YaYTpg==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-23T11:34:23.827Z",
+    "context_time": 1748000063827,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 31534
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-07T23:18:03.991Z",
+    "context_time": 1751930283991,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 24769
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "idMgoRSBTFUrmbZ/tjwNAw==",
+    "timestamp_utc": "2025-08-08T12:57:23.172Z",
+    "context_time": 1754657843172,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 642620
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T20:28:21.855Z",
+    "context_time": 1752870501855,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 55124
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "timestamp_utc": "2025-06-06T10:42:14.665Z",
+    "context_time": 1749206534665,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 188300
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T13:09:15.171Z",
+    "context_time": 1750511355171,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 134461
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "XJc644K3vTLJkTOKMgpRIw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T13:06:28.223Z",
+    "context_time": 1752325588223,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 554213
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "uvOY2N8NpLMb4ykUeSLL9g==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T11:07:06.754Z",
+    "context_time": 1748603226754,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 743174
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T22:17:05.585Z",
+    "context_time": 1752358625585,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 55177
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-09T15:33:33.020Z",
+    "context_time": 1754753613020,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T11:25:48.581Z",
+    "context_time": 1748690748581,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T19:30:23.199Z",
+    "context_time": 1752867023199,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 3433023
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "qotmMJ/6Ru9/15xRcx7vhw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T19:22:33.217Z",
+    "context_time": 1749324153217,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 18754097
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T20:08:01.728Z",
+    "context_time": 1749413281728,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T15:01:53.118Z",
+    "context_time": 1749394913118,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 39527
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-18T11:15:15.498Z",
+    "context_time": 1750245315498,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 17682
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T22:30:12.022Z",
+    "context_time": 1752359412022,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 21304
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "9/Yp7R5521LeQsR6Cv63Dw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T13:57:29.876Z",
+    "context_time": 1749304649876,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 321101
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-27T15:01:40.427Z",
+    "context_time": 1753628500427,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 147598495
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T14:59:24.963Z",
+    "context_time": 1749394764963,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 8246
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T14:25:03.292Z",
+    "context_time": 1749392703292,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 44377745
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T20:34:01.849Z",
+    "context_time": 1747773241849,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 3255
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-30T20:05:16.068Z",
+    "context_time": 1751313916068,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T21:13:29.681Z",
+    "context_time": 1749417209681,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 234962
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T18:10:40.180Z",
+    "context_time": 1751134240180,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 4592792
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-18T10:15:36.494Z",
+    "context_time": 1750241736494,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 424703466
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "uvOY2N8NpLMb4ykUeSLL9g==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T12:00:14.857Z",
+    "context_time": 1748606414857,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 37548
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "timestamp_utc": "2025-06-29T09:57:23.843Z",
+    "context_time": 1751191043843,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 601020
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "TUO77E9uI+PQKOGq/8HeaA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T13:58:32.178Z",
+    "context_time": 1748699912178,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 72449
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T11:38:02.993Z",
+    "context_time": 1751024282993,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 41408
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "i2XbM7nlIEZ0NlZhyju5TQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-16T10:56:27.661Z",
+    "context_time": 1747392987661,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "timestamp_utc": "2025-06-29T16:14:06.907Z",
+    "context_time": 1751213646907,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 1752280
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "J63emOH0ttVfZo8YUO/v4A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T23:38:18.724Z",
+    "context_time": 1749339498724,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 11374726
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T16:47:33.497Z",
+    "context_time": 1751129253497,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 2742
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-12T10:46:57.364Z",
+    "context_time": 1749725217364,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "qotmMJ/6Ru9/15xRcx7vhw==",
+    "timestamp_utc": "2025-06-07T20:36:38.499Z",
+    "context_time": 1749328598499,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 474501
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "TUO77E9uI+PQKOGq/8HeaA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T13:10:08.057Z",
+    "context_time": 1748697008057,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 489752
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T17:05:20.164Z",
+    "context_time": 1748624720164,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-17T12:11:02.810Z",
+    "context_time": 1752754262810,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 226888293
+  },
+  {
+    "message_new_active_device_id": "d6ec14062dc91da4a920a0a62a85342c",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-14T21:09:46.026Z",
+    "context_time": 1752527386026,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 1198
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T16:44:21.230Z",
+    "context_time": 1751129061230,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 233232
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T22:59:31.975Z",
+    "context_time": 1747609171975,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T15:29:35.471Z",
+    "context_time": 1751210975471,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-08T22:07:50.727Z",
+    "context_time": 1752012470727,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 82164619
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "9/Yp7R5521LeQsR6Cv63Dw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T13:35:13.027Z",
+    "context_time": 1749303313027,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 6916502
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-18T11:06:06.508Z",
+    "context_time": 1750244766508,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 29003
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "timestamp_utc": "2025-06-21T11:54:34.632Z",
+    "context_time": 1750506874632,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 2327299
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T09:12:19.919Z",
+    "context_time": 1751188339919,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 51195363
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T11:37:01.204Z",
+    "context_time": 1748691421204,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T15:29:35.468Z",
+    "context_time": 1751210975468,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-30T18:42:38.634Z",
+    "context_time": 1753900958634,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 76764731
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "zjUCBvJWgfpDRo9fdqJ7IQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-13T12:09:27.834Z",
+    "context_time": 1749816567834,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 8614
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-09T21:03:08.571Z",
+    "context_time": 1754773388571,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 19767243
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "mdifhpm7EhVsOMz2YaYTpg==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-23T11:06:53.862Z",
+    "context_time": 1747998413862,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "uvOY2N8NpLMb4ykUeSLL9g==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T11:22:52.539Z",
+    "context_time": 1748604172539,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 9226
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T13:43:01.607Z",
+    "context_time": 1747575781607,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T09:12:19.918Z",
+    "context_time": 1751188339918,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-12T10:47:01.674Z",
+    "context_time": 1749725221674,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 3076
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "ELbqN+Px9X39gGRRivgwlA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-25T21:39:46.799Z",
+    "context_time": 1753479586799,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-20T22:33:03.748Z",
+    "context_time": 1750458783748,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 197201
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T15:01:01.111Z",
+    "context_time": 1749394861111,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 77537
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T12:02:29.822Z",
+    "context_time": 1750507349822,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 2802488
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T13:23:40.492Z",
+    "context_time": 1751203420492,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T13:41:06.252Z",
+    "context_time": 1747575666252,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 178287426
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "sOI7JLLuavRXMkJkjuB7jA==",
+    "timestamp_utc": "2025-05-20T19:24:45.275Z",
+    "context_time": 1747769085275,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 139042
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T14:25:03.293Z",
+    "context_time": 1749392703293,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "qotmMJ/6Ru9/15xRcx7vhw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T19:22:33.221Z",
+    "context_time": 1749324153221,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "TUO77E9uI+PQKOGq/8HeaA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T11:55:38.558Z",
+    "context_time": 1748692538558,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 67863
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-20T11:01:22.280Z",
+    "context_time": 1750417282280,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_previous_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "timestamp_utc": "2025-05-30T18:00:06.169Z",
+    "context_time": 1748628006169,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 2800296
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T12:02:29.822Z",
+    "context_time": 1750507349822,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-07T23:17:19.951Z",
+    "context_time": 1751930239951,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 29353
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "timestamp_utc": "2025-05-18T23:03:31.370Z",
+    "context_time": 1747609411370,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 130056
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "sOI7JLLuavRXMkJkjuB7jA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T19:22:25.597Z",
+    "context_time": 1747768945597,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-18T11:02:02.015Z",
+    "context_time": 1750244522015,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 40095
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T13:46:25.730Z",
+    "context_time": 1751118385730,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 2738
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T11:45:15.214Z",
+    "context_time": 1751024715214,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 1890
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T20:41:23.320Z",
+    "context_time": 1747773683320,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-29T19:52:27.145Z",
+    "context_time": 1753818747145,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T18:50:10.710Z",
+    "context_time": 1751136610710,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T13:36:55.655Z",
+    "context_time": 1751117815655,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T22:32:13.642Z",
+    "context_time": 1752359533642,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 3171
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-20T11:01:22.280Z",
+    "context_time": 1750417282280,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 171021903
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "zjUCBvJWgfpDRo9fdqJ7IQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-13T11:48:15.400Z",
+    "context_time": 1749815295400,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 76379
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T15:34:11.920Z",
+    "context_time": 1750520051920,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 139112
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "qotmMJ/6Ru9/15xRcx7vhw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T20:19:03.288Z",
+    "context_time": 1749327543288,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "idMgoRSBTFUrmbZ/tjwNAw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-08T12:24:07.636Z",
+    "context_time": 1754655847636,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "UuiPaG1R204RB556iuRzGQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T11:24:38.513Z",
+    "context_time": 1749209078513,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 26986
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-18T10:15:36.494Z",
+    "context_time": 1750241736494,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-30T14:16:59.975Z",
+    "context_time": 1751293019975,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 592703572
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-14T21:09:34.025Z",
+    "context_time": 1752527374025,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 165357970
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T14:25:31.865Z",
+    "context_time": 1751120731865,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 9124
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T20:33:46.730Z",
+    "context_time": 1747773226730,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 224052
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-19T13:39:01.480Z",
+    "context_time": 1752932341480,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 59856550
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "9/Yp7R5521LeQsR6Cv63Dw==",
+    "timestamp_utc": "2025-06-07T13:34:46.959Z",
+    "context_time": 1749303286959,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 6890434
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-07T23:16:08.335Z",
+    "context_time": 1751930168335,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T15:29:35.468Z",
+    "context_time": 1751210975468,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 7203885
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:54:07.022Z",
+    "context_time": 1747583647022,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "zjUCBvJWgfpDRo9fdqJ7IQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-13T11:17:49.782Z",
+    "context_time": 1749813469782,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 87183551
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T15:29:35.468Z",
+    "context_time": 1751210975468,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 7203884
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:33:40.480Z",
+    "context_time": 1747582420480,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T20:37:55.166Z",
+    "context_time": 1751056675166,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 3861
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T09:12:19.914Z",
+    "context_time": 1751188339914,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 51195357
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T13:41:06.253Z",
+    "context_time": 1747575666253,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T23:04:14.862Z",
+    "context_time": 1752361454862,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 1905659
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T18:13:50.369Z",
+    "context_time": 1752862430369,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "mdifhpm7EhVsOMz2YaYTpg==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-23T11:12:27.276Z",
+    "context_time": 1747998747276,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 19586
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "timestamp_utc": "2025-05-30T10:56:48.325Z",
+    "context_time": 1748602608325,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 124745
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T19:33:32.156Z",
+    "context_time": 1747769612156,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 665922
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-06T15:31:32.529Z",
+    "context_time": 1754494292529,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "mdifhpm7EhVsOMz2YaYTpg==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-23T11:32:44.831Z",
+    "context_time": 1747999964831,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 15912
+  },
+  {
+    "message_new_active_device_id": "d6ec14062dc91da4a920a0a62a85342c",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-14T22:07:39.121Z",
+    "context_time": 1752530859121,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 86
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_previous_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "timestamp_utc": "2025-05-30T17:59:43.383Z",
+    "context_time": 1748627983383,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 2777510
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T14:27:45.787Z",
+    "context_time": 1751120865787,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 57447
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T14:33:55.242Z",
+    "context_time": 1749393235242,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 17435
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "zjUCBvJWgfpDRo9fdqJ7IQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-13T11:17:49.817Z",
+    "context_time": 1749813469817,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-05T21:15:15.832Z",
+    "context_time": 1754428515832,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 337496663
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T11:33:35.422Z",
+    "context_time": 1751024015422,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:03:59.752Z",
+    "context_time": 1747577039752,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-30T20:07:43.589Z",
+    "context_time": 1753906063589,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 2310259
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:05:17.442Z",
+    "context_time": 1747577117442,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 2691
+  },
+  {
+    "message_new_active_device_id": "d6ec14062dc91da4a920a0a62a85342c",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-14T21:53:41.446Z",
+    "context_time": 1752530021446,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 722
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T15:58:39.966Z",
+    "context_time": 1751126319966,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 4898414
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "l7yeApLUBZRisuBSoQCBUQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-05T12:19:13.116Z",
+    "context_time": 1749125953116,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 23460
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "sOI7JLLuavRXMkJkjuB7jA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-24T21:07:02.546Z",
+    "context_time": 1748120822546,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "mdifhpm7EhVsOMz2YaYTpg==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-23T11:06:53.861Z",
+    "context_time": 1747998413861,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 224410711
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T11:44:06.637Z",
+    "context_time": 1751024646637,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 39819
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "l7yeApLUBZRisuBSoQCBUQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-05T11:21:19.053Z",
+    "context_time": 1749122479053,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 945074
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-20T23:23:10.537Z",
+    "context_time": 1750461790537,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 108276
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T23:03:31.293Z",
+    "context_time": 1747609411293,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:17:21.306Z",
+    "context_time": 1747581441306,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T17:41:28.336Z",
+    "context_time": 1752860488336,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:17:32.833Z",
+    "context_time": 1747581452833,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "9/Yp7R5521LeQsR6Cv63Dw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T13:35:35.469Z",
+    "context_time": 1749303335469,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 5049
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-05T11:05:33.305Z",
+    "context_time": 1749121533305,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 416981141
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T22:16:09.565Z",
+    "context_time": 1752358569565,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 15615
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "RruBDhwLP9o+SfTyTt3tqw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-20T20:04:22.679Z",
+    "context_time": 1747771462679,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 61591
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T14:22:29.629Z",
+    "context_time": 1750515749629,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 619679
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T14:28:16.415Z",
+    "context_time": 1750516096415,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 102766
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T11:15:45.375Z",
+    "context_time": 1750504545375,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 2107
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-07T23:16:21.964Z",
+    "context_time": 1751930181964,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 3243
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T22:31:12.034Z",
+    "context_time": 1752359472034,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 3394
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T11:15:42.640Z",
+    "context_time": 1750504542640,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:05:19.125Z",
+    "context_time": 1747577119125,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 824
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T14:25:39.087Z",
+    "context_time": 1747578339087,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 36951
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "idMgoRSBTFUrmbZ/tjwNAw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-08T12:24:07.634Z",
+    "context_time": 1754655847634,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 223562371
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-05T21:15:15.833Z",
+    "context_time": 1754428515833,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T10:54:42.871Z",
+    "context_time": 1748602482871,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-29T13:24:48.010Z",
+    "context_time": 1751203488010,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 40844
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-08T22:34:56.627Z",
+    "context_time": 1752014096627,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "timestamp_utc": "2025-06-05T11:10:32.948Z",
+    "context_time": 1749121832948,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 298969
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T11:45:11.049Z",
+    "context_time": 1751024711049,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 2434
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-30T14:16:59.975Z",
+    "context_time": 1751293019975,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "i2XbM7nlIEZ0NlZhyju5TQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-16T11:09:17.110Z",
+    "context_time": 1747393757110,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 6018
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "jqtmCeLlLxfxaG5/OaqCow==",
+    "timestamp_utc": "2025-06-21T11:59:24.345Z",
+    "context_time": 1750507164345,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 2617012
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T20:29:22.574Z",
+    "context_time": 1751056162574,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T13:41:42.645Z",
+    "context_time": 1747575702645,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 34112
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-30T20:07:43.590Z",
+    "context_time": 1753906063590,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "d6ec14062dc91da4a920a0a62a85342c",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "timestamp_utc": "2025-07-14T21:09:41.439Z",
+    "context_time": 1752527381439,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 6923
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-08T22:07:50.727Z",
+    "context_time": 1752012470727,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "UuiPaG1R204RB556iuRzGQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T10:52:27.650Z",
+    "context_time": 1749207147650,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T09:38:47.630Z",
+    "context_time": 1749289127630,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "timestamp_utc": "2025-06-28T14:19:22.232Z",
+    "context_time": 1751120362232,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 905488
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T18:10:40.191Z",
+    "context_time": 1751134240191,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T11:41:28.567Z",
+    "context_time": 1752320488567,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 306365221
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T18:13:50.369Z",
+    "context_time": 1752862430369,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 1519948
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T20:56:00.198Z",
+    "context_time": 1752872160198,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 18787
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "xOFuJuvysvqRKDU55IoEeQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-30T14:49:28.478Z",
+    "context_time": 1748616568478,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 19497
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "gBSqYC/ucUH3klT6uQEK9A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-27T21:05:33.413Z",
+    "context_time": 1751058333413,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T22:24:00.057Z",
+    "context_time": 1749421440057,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 25536
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T15:01:08.666Z",
+    "context_time": 1749394868666,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 1149
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "4ntNC0Ecr1VbYTVaNAoCOA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-12T11:02:58.404Z",
+    "context_time": 1749726178404,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 954164
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "timestamp_utc": "2025-06-20T11:05:02.576Z",
+    "context_time": 1750417502576,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 219668
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "XJc644K3vTLJkTOKMgpRIw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T11:55:33.233Z",
+    "context_time": 1752321333233,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 435470
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "uvOY2N8NpLMb4ykUeSLL9g==",
+    "timestamp_utc": "2025-05-30T12:20:24.321Z",
+    "context_time": 1748607624321,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 1183045
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "LDarC9XzkhD/PkrFu9+bcw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-27T19:49:29.980Z",
+    "context_time": 1748375369980,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 456906
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-06T14:59:31.367Z",
+    "context_time": 1749221971367,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 14741
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T23:04:14.863Z",
+    "context_time": 1752361454863,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "J63emOH0ttVfZo8YUO/v4A==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T23:38:18.724Z",
+    "context_time": 1749339498724,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "l7yeApLUBZRisuBSoQCBUQ==",
+    "timestamp_utc": "2025-06-05T12:33:18.378Z",
+    "context_time": 1749126798378,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 825887
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T22:40:08.888Z",
+    "context_time": 1747608008888,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 23802396
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T11:37:01.203Z",
+    "context_time": 1748691421203,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 671906
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "B337po7LtaleLYEYXRjLuQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-18T20:51:01.851Z",
+    "context_time": 1752871861851,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 156606
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T16:03:44.849Z",
+    "context_time": 1747584224849,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "i2XbM7nlIEZ0NlZhyju5TQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-16T11:26:41.084Z",
+    "context_time": 1747394801084,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 10810
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "timestamp_utc": "2025-06-12T10:52:01.616Z",
+    "context_time": 1749725521616,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 297376
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T14:50:46.819Z",
+    "context_time": 1749394246819,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 33734
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "Llaf43+GBoo37MoeWdAodw==",
+    "timestamp_utc": "2025-06-29T15:29:34.819Z",
+    "context_time": 1751210974819,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 7203236
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T14:20:46.377Z",
+    "context_time": 1751120446377,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 989633
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "aBQUNUJ8x+WgpvaYh94EUQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-08-08T17:53:58.745Z",
+    "context_time": 1754675638745,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-07T09:38:47.629Z",
+    "context_time": 1749289127629,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 66498097
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-12T10:46:57.364Z",
+    "context_time": 1749725217364,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 301787922
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T13:36:55.654Z",
+    "context_time": 1751117815654,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 59866530
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T15:58:39.970Z",
+    "context_time": 1751126319970,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 4898419
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "ELbqN+Px9X39gGRRivgwlA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-25T21:44:13.592Z",
+    "context_time": 1753479853592,
+    "message_new_active_device_audio_output_device_type": "BUILT_IN_SPEAKER",
+    "message_no_playback_duration": 65139
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "mdifhpm7EhVsOMz2YaYTpg==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-23T11:26:18.344Z",
+    "context_time": 1747999578344,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 8866
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "4ntNC0Ecr1VbYTVaNAoCOA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-12T11:02:58.405Z",
+    "context_time": 1749726178405,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "XJc644K3vTLJkTOKMgpRIw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-07-12T14:25:10.579Z",
+    "context_time": 1752330310579,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 66059
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "timestamp_utc": "2025-05-18T16:03:44.892Z",
+    "context_time": 1747584224892,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 18401
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "8G0WrUT0PVmMcqh7q3Misw==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T11:25:48.580Z",
+    "context_time": 1748690748580,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 84307304
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T18:50:10.709Z",
+    "context_time": 1751136610709,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 462931
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "l7yeApLUBZRisuBSoQCBUQ==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-05T11:45:34.652Z",
+    "context_time": 1749123934652,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 8070
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "TUO77E9uI+PQKOGq/8HeaA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-31T13:55:33.077Z",
+    "context_time": 1748699733077,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 114383
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "BUqIwQ6FV46Nz5vD6g9KHw==",
+    "timestamp_utc": "2025-06-28T14:20:10.890Z",
+    "context_time": 1751120410890,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 954146
+  },
+  {
+    "message_new_active_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-30T20:05:16.068Z",
+    "context_time": 1751313916068,
+    "message_new_active_device_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_no_playback_duration": 18968360
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "Nz9R8luHR4Cv7O2UrAVpPA==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-21T11:15:42.639Z",
+    "context_time": 1750504542639,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 41551300
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:32:42.590Z",
+    "context_time": 1747582362590,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "nchTCcMAYNQ0tMv8HzSI9Q==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-28T15:58:39.970Z",
+    "context_time": 1751126319970,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": null
+  },
+  {
+    "message_new_active_device_id": null,
+    "message_new_active_device_ip_hash": null,
+    "message_previous_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_previous_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "timestamp_utc": "2025-06-08T16:52:48.714Z",
+    "context_time": 1749401568714,
+    "message_new_active_device_audio_output_device_type": null,
+    "message_no_playback_duration": 2307545
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "vAzAqwEQIovrkwbHWot5/w==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-05-18T15:49:46.640Z",
+    "context_time": 1747583386640,
+    "message_new_active_device_audio_output_device_type": "BLUETOOTH",
+    "message_no_playback_duration": 2074
+  },
+  {
+    "message_new_active_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "message_new_active_device_ip_hash": "YJh7W8yM7TpuZPxktOB9Ag==",
+    "message_previous_active_device_id": null,
+    "message_previous_active_device_ip_hash": null,
+    "timestamp_utc": "2025-06-08T21:13:53.875Z",
+    "context_time": 1749417233875,
+    "message_new_active_device_audio_output_device_type": "CAR_PROJECTED",
+    "message_no_playback_duration": 10600
+  }
+]

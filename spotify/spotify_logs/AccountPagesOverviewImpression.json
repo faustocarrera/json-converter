@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp_utc": "2025-07-17T11:13:36.045Z",
+    "context_time": 1752750816045,
+    "message_displayed_hero_type": "duo",
+    "message_market": "us"
+  },
+  {
+    "timestamp_utc": "2025-06-11T15:16:37.439Z",
+    "context_time": 1749654997439,
+    "message_displayed_hero_type": "duo",
+    "message_market": "us"
+  }
+]

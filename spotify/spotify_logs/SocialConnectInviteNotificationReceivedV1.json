@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp_utc": "2025-07-17T11:49:40.974Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752754228726,
+    "context_time": 1752752980974,
+    "message_jam_join_uri": "spotify:nearbyjaminvite:6cyNC9uJ9QH6j7R70ONlsG?host=11100052449"
+  },
+  {
+    "timestamp_utc": "2025-07-13T11:36:43.207Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752445133117,
+    "context_time": 1752406603207,
+    "message_jam_join_uri": "spotify:nearbyjaminvite:1LdY4izO27E08to7eyPYqw?host=11100052449"
+  },
+  {
+    "timestamp_utc": "2025-07-11T23:38:43.161Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752320446441,
+    "context_time": 1752277123161,
+    "message_jam_join_uri": "spotify:nearbyjaminvite:5jSqYk8ZXIOPVMOKTizVpO?host=11100052449"
+  }
+]

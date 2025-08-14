@@ -1,0 +1,3332 @@
+[
+  {
+    "timestamp_utc": "2025-05-18T14:06:10.453Z",
+    "context_application_version": "9.0.44.478",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1747577172054,
+    "context_time": 1747577170453,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "46b115a3-6af6-4c15-9c1a-6752cfe8f759",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 17
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:44:31.760Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753479888197,
+    "context_time": 1753479871760,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "506ca8be-8106-4ad3-9b32-0ec3a695cd36",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 5
+      },
+      {
+        "key": "frames_rendered",
+        "value": 69
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.07246376811594203
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:15:35.411Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752531340868,
+    "context_time": 1752531335411,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "artist/about"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "ee0f68f8-7b69-43d3-82f4-77a7766fb8d6",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 136
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-20T00:57:27.992Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752996705849,
+    "context_time": 1752973047992,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "artist"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "e4cbd0f0-82bc-4bf2-a0d4-81b478da2f14",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 18
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-06T15:00:48.584Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749222071475,
+    "context_time": 1749222048584,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "5de2f58c-609c-4244-b8e8-ffcf3ba765df",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09090909090909091
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:30:01.823Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752755426448,
+    "context_time": 1752755401823,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "7a8587e9-5c75-44d7-b732-4809b64151bd",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 77
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:15:45.643Z",
+    "context_application_version": "9.0.66.655",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754428571482,
+    "context_time": 1754428545643,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "df76454b-f43e-4417-b4a2-bbe08b9868a8",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 24
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.041666666666666664
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-20T23:22:32.589Z",
+    "context_application_version": "9.0.54.518",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1750461755137,
+    "context_time": 1750461752589,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c9206aef-dbde-4bc6-99c4-e5dcd6396088",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 13
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:11:00.954Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752754286410,
+    "context_time": 1752754260954,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "f5ee682f-b95e-4507-be54-04ccb951b077",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 175
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:18:30.470Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752010036841,
+    "context_time": 1751930310470,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "174bc49a-a4a8-48f6-9e63-47f71c9e9568",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 291
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-20T05:21:25.058Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752996711533,
+    "context_time": 1752988885058,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "5d4bff4e-199b-49a4-8628-5458b4ef38a8",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 2
+      },
+      {
+        "key": "frames_rendered",
+        "value": 13
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.15384615384615385
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:17:59.619Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930296633,
+    "context_time": 1751930279619,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "dc991203-da9b-4945-a3a3-9568b17f73bc",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.13333333333333333
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:16:51.012Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930236649,
+    "context_time": 1751930211012,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "0e9cd404-d84d-42a4-9a2a-1190e34a4f2d",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.07692307692307693
+      },
+      {
+        "key": "frames_rendered",
+        "value": 13
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-30T10:54:28.909Z",
+    "context_application_version": "9.0.48.380",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748602476316,
+    "context_time": 1748602468909,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "b23d6557-24c7-4dac-90b7-39c8a66ed255",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.07692307692307693
+      },
+      {
+        "key": "frames_rendered",
+        "value": 13
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-06T15:00:45.592Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749222071475,
+    "context_time": 1749222045592,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "bfee25c3-c612-4bdb-b1aa-ecbca3784a92",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.11764705882352941
+      },
+      {
+        "key": "frames_rendered",
+        "value": 17
+      },
+      {
+        "key": "jank_frames",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-08T22:34:59.575Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752014124156,
+    "context_time": 1752014099575,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c55e7371-0862-460f-9d38-361b96c1925c",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:16:40.243Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930206620,
+    "context_time": 1751930200243,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary/search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "7b72ec22-f854-4c88-af7b-af2d7b8e341b",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.014084507042253521
+      },
+      {
+        "key": "frames_rendered",
+        "value": 71
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:35:28.396Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753731430,
+    "context_time": 1754753728396,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "artist"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "3173c256-63c9-4ee9-979a-a90e3caaefb6",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09090909090909091
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-12T11:40:56.710Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752320474126,
+    "context_time": 1752320456710,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "841f72a0-0203-4ce9-9d59-b6b628c9dfef",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 2
+      },
+      {
+        "key": "frames_rendered",
+        "value": 20
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:39:04.197Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753479548394,
+    "context_time": 1753479544197,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "find"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "41b01646-de76-41e7-b870-a91e539192b1",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 16
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.0625
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-12T23:04:10.514Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752361465131,
+    "context_time": 1752361450514,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "4d33bac4-70f3-407f-9019-68982b7c3557",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 227
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-13T10:52:25.095Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749812120776,
+    "context_time": 1749811945095,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "b8e8efd4-f2fa-44ae-8c2f-a0432dd81388",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.08333333333333333
+      },
+      {
+        "key": "frames_rendered",
+        "value": 12
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:37:14.999Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754773378453,
+    "context_time": 1754753834999,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "artist"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c4e72b39-f2be-4d96-8fbe-4dc905c16bb9",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 403
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.0024813895781637717
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-30T10:54:25.394Z",
+    "context_application_version": "9.0.48.380",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748602476147,
+    "context_time": 1748602465394,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "79839ec9-cddc-40cb-b299-10b2867aaad5",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 345
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:29:05.019Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752755366393,
+    "context_time": 1752755345019,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "26e1d2aa-4ba2-486c-920f-0527ce47c7fc",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 230
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:16:45.849Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930206620,
+    "context_time": 1751930205849,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "72dc0a37-4066-464c-9dc5-30c29d8f280c",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-20T00:34:02.355Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752996705046,
+    "context_time": 1752971642355,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "5fed5719-f706-4977-9c3b-9d5702d74682",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 2
+      },
+      {
+        "key": "frames_rendered",
+        "value": 21
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09523809523809523
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:10:51.648Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752754256421,
+    "context_time": 1752754251648,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "8b1ef044-c221-4513-8fe6-aecfeffcfb99",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 173
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.005780346820809248
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-27T20:29:27.126Z",
+    "context_application_version": "9.0.56.591",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751056186266,
+    "context_time": 1751056167126,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "d0b71244-5a7c-425f-a738-65ea3b9aaa66",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.05263157894736842
+      },
+      {
+        "key": "frames_rendered",
+        "value": 19
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-20T23:22:20.984Z",
+    "context_application_version": "9.0.54.518",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1750461755137,
+    "context_time": 1750461740984,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "4222d201-42cd-41d9-b02c-495c4e7f97bb",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 453
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-20T23:22:58.322Z",
+    "context_application_version": "9.0.54.518",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1750461785145,
+    "context_time": 1750461778322,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "25daaf3e-39c7-4300-9526-19e2f5a969d2",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.0020920502092050207
+      },
+      {
+        "key": "frames_rendered",
+        "value": 478
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:39:13.777Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753479571522,
+    "context_time": 1753479553777,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "90e841dd-7f10-45b9-9e79-ffcfc93e4de4",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 2
+      },
+      {
+        "key": "frames_rendered",
+        "value": 43
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.046511627906976744
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T21:03:06.235Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754773405377,
+    "context_time": 1754773386235,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "522d86c1-48d4-43cc-abb7-2484638f3967",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 6
+      },
+      {
+        "key": "frames_rendered",
+        "value": 69
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.08695652173913043
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-18T14:04:09.001Z",
+    "context_application_version": "9.0.44.478",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1747577052446,
+    "context_time": 1747577049001,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "d8cddabc-c5ad-485c-ae12-ed80c29da3d9",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.03571428571428571
+      },
+      {
+        "key": "frames_rendered",
+        "value": 28
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-12T22:02:10.182Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752357744485,
+    "context_time": 1752357730182,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/ondemand"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "2f410afb-1721-4a8d-9fcf-dcc937d295e9",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-27T15:02:01.803Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753635258702,
+    "context_time": 1753628521803,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "86cfc759-a792-4ade-b74b-76f0fe2f9de1",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 13
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:29:42.403Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752755396392,
+    "context_time": 1752755382403,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c1cf5e84-7290-47d5-acf8-9ccc0a93116d",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 933
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:45:17.686Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753479947653,
+    "context_time": 1753479917686,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "e8c2a619-5ab8-4f6a-bfa2-2186ede3a2dc",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 84
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-20T00:33:55.492Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752996704807,
+    "context_time": 1752971635492,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "4cbf3367-b9e9-490f-aa97-e8234ba05a2c",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 3
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-07T09:36:18.969Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749289071220,
+    "context_time": 1749288978969,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "da2e0e02-8071-4d73-9d66-ffff3a28073a",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.07142857142857142
+      },
+      {
+        "key": "frames_rendered",
+        "value": 14
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:44:52.003Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753479917699,
+    "context_time": 1753479892003,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "e366be66-6060-44b1-bd51-fde5d8fdcfc6",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09090909090909091
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:17:24.837Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930266628,
+    "context_time": 1751930244837,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "podcast/episode"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "13892912-24cf-4bb9-83a8-641644de0197",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09090909090909091
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:43:52.935Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753479858351,
+    "context_time": 1753479832935,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "2ae21136-df60-41c5-9bf1-89849938e5b2",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 2
+      },
+      {
+        "key": "frames_rendered",
+        "value": 13
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.15384615384615385
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:09:48.089Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752527390372,
+    "context_time": 1752527388089,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/ondemand"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "7c18dfdb-d9b5-4092-9873-0cc4f8b917bd",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:29:06.165Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752755366393,
+    "context_time": 1752755346165,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "ab7b6478-ca16-40a8-a2d5-f18e3a09f7e4",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.06666666666666667
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-30T10:53:52.903Z",
+    "context_application_version": "9.0.48.380",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748602446126,
+    "context_time": 1748602432903,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c9401ba9-3ad3-4bc6-8a43-4522765aabcf",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 61
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-05T11:05:30.458Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749121555673,
+    "context_time": 1749121530458,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "25e99cdc-aaa7-4ea1-9330-c1ae100807df",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.05555555555555555
+      },
+      {
+        "key": "frames_rendered",
+        "value": 18
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:33:25.415Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753611630,
+    "context_time": 1754753605415,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "cae5baa8-7e08-4d6b-969d-1e538433d71a",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09090909090909091
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:34:16.007Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753671498,
+    "context_time": 1754753656007,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "7efe8c82-db0e-44a3-8adc-71e7368ef774",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 18
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.05555555555555555
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-12T23:04:02.331Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752361465131,
+    "context_time": 1752361442331,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "f352506c-813b-45a4-a81e-71ad2a7dbd50",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 16
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.0625
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:34:49.582Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753701438,
+    "context_time": 1754753689582,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "fada5275-5269-414b-badb-f26064caad14",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 4
+      },
+      {
+        "key": "frames_rendered",
+        "value": 27
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.14814814814814814
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-12T11:41:34.207Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752320654780,
+    "context_time": 1752320494207,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/ondemand"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "6be9e129-2a67-46ec-84a9-42798397f823",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 17
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:59:51.529Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752757229360,
+    "context_time": 1752757191529,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "9673c448-a644-4fb9-9c0b-2db4b1a2e179",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09090909090909091
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:10:47.282Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752754256421,
+    "context_time": 1752754247282,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "fedeba84-f806-4f3a-a2a6-2e268fb9d919",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 18
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.05555555555555555
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:16:14.112Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930177085,
+    "context_time": 1751930174112,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary/search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "34969809-5bd4-464d-b201-0eead59258a6",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 20
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-24T21:07:08.296Z",
+    "context_application_version": "9.0.46.496",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748181749523,
+    "context_time": 1748120828296,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "album"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "8a04018c-4540-49c3-a1af-3e5fe302d93d",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 24
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:15:51.345Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930176650,
+    "context_time": 1751930151345,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "be7fead4-9812-43c7-88e5-8726b10bb2b6",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 16
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-18T10:15:33.965Z",
+    "context_application_version": "9.0.52.505",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1750241745454,
+    "context_time": 1750241733965,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "ec73ccbc-b8a6-408f-989b-9039cc327d6d",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09090909090909091
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-26T20:32:24.061Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753562075967,
+    "context_time": 1753561944061,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "1c74503a-f9a6-4f8c-93aa-6866667b73c9",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 33
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.030303030303030304
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:14:57.601Z",
+    "context_application_version": "9.0.66.655",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754428511738,
+    "context_time": 1754428497601,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "a572af52-cce5-4608-a9c4-6d571a90a3f1",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.06666666666666667
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-21T11:15:52.010Z",
+    "context_application_version": "9.0.54.518",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1750504623281,
+    "context_time": 1750504552010,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/ondemand"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "fcc15fec-c6bd-452b-bb70-a5ef986f9c55",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 16
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-20T22:33:00.661Z",
+    "context_application_version": "9.0.54.518",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1750458785128,
+    "context_time": 1750458780661,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary/search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "5721f973-9ab4-47c3-a318-6aed3306a031",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.027777777777777776
+      },
+      {
+        "key": "frames_rendered",
+        "value": 36
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-08T12:24:20.264Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754655863336,
+    "context_time": 1754655860264,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/ondemand"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "2b1f246a-17d1-4b9e-9050-3d6a506730d6",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 16
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:10:41.829Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752754256421,
+    "context_time": 1752754241829,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "25745bb8-8df2-4a9d-a09a-f3c7f6c216aa",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 195
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-18T22:40:16.767Z",
+    "context_application_version": "9.0.44.478",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1747608033960,
+    "context_time": 1747608016767,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "f1723437-a896-4256-83a2-0cd4b2bfebcb",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.06666666666666667
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-11T01:32:43.341Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752197583931,
+    "context_time": 1752197563341,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c08bb8cb-8e8a-435b-8fa9-e5efdfb7763d",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 20
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-24T21:06:54.059Z",
+    "context_application_version": "9.0.46.496",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748120815527,
+    "context_time": 1748120814059,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "free-tier-artist"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "bb747c3d-d1c6-4389-9f62-0b24c82d01c1",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 131
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-17T12:29:25.844Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752755366393,
+    "context_time": 1752755365844,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary/search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "0d949d98-c1f2-4291-9792-82165ec7ca68",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 47
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-30T10:54:10.429Z",
+    "context_application_version": "9.0.48.380",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748602476147,
+    "context_time": 1748602450429,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "1745475c-fcfb-428b-996a-07ffcc99f204",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.058823529411764705
+      },
+      {
+        "key": "frames_rendered",
+        "value": 17
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-06T14:59:24.651Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749221981454,
+    "context_time": 1749221964651,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "f386e055-5e67-4416-838b-26315138d218",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-11T15:15:57.572Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749654969680,
+    "context_time": 1749654957572,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c615b41d-bdc3-4b11-bcbe-cfd9dac7ea56",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.006896551724137931
+      },
+      {
+        "key": "frames_rendered",
+        "value": 145
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-24T21:06:45.702Z",
+    "context_application_version": "9.0.46.496",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748120815527,
+    "context_time": 1748120805702,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "51f0c8c5-7b45-44c9-b708-a3db1bf72dbc",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.06896551724137931
+      },
+      {
+        "key": "frames_rendered",
+        "value": 29
+      },
+      {
+        "key": "jank_frames",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-27T01:38:51.278Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753586273386,
+    "context_time": 1753580331278,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c50d67a7-5694-43e3-a987-5a3224b8d7be",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 3
+      },
+      {
+        "key": "frames_rendered",
+        "value": 16
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.1875
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-18T13:40:49.391Z",
+    "context_application_version": "9.0.44.478",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1747575702542,
+    "context_time": 1747575649391,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "648f4f1e-b5ee-427d-83c0-c978918848dd",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.0625
+      },
+      {
+        "key": "frames_rendered",
+        "value": 16
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-08T22:03:14.135Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752012209155,
+    "context_time": 1752012194135,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "37e34ba9-858a-4b4c-a10d-27aa9bfcf453",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 3
+      },
+      {
+        "key": "frames_rendered",
+        "value": 18
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.16666666666666666
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:15:02.076Z",
+    "context_application_version": "9.0.66.655",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754428511958,
+    "context_time": 1754428502076,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "84d7a0a1-6a1d-4b4a-8635-ad4c7abe7f49",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 137
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.0072992700729927005
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-09T15:34:01.195Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754753641439,
+    "context_time": 1754753641195,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/ondemand"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "ffea2000-89ff-484b-8db2-42e0db4121cb",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 18
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-05T21:15:32.448Z",
+    "context_application_version": "9.0.66.655",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1754428541401,
+    "context_time": 1754428532448,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/ondemand"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "6fd25abd-20ef-42ee-8a3e-81afb33bb75e",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 19
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-06T14:28:53.119Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749220151449,
+    "context_time": 1749220133119,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "5f11e6a8-3079-4589-a97b-d7f76933f274",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 85
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-20T05:21:30.263Z",
+    "context_application_version": "9.0.62.622",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752996711533,
+    "context_time": 1752988890263,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "2d66c757-96e8-4d6e-a1f9-07eb8684d41f",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 2
+      },
+      {
+        "key": "frames_rendered",
+        "value": 24
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.08333333333333333
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-25T21:44:10.384Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "BR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753479859161,
+    "context_time": 1753479850384,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "4d995eb7-3dd4-464f-9798-b2f3e9ef2319",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 5
+      },
+      {
+        "key": "frames_rendered",
+        "value": 96
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.052083333333333336
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-06T14:28:47.264Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749220151449,
+    "context_time": 1749220127264,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c92721fc-a8f9-40ff-966a-c76dd6298462",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.07142857142857142
+      },
+      {
+        "key": "frames_rendered",
+        "value": 14
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-12T23:04:00.870Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752361465131,
+    "context_time": 1752361440870,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "20333bc7-e48c-45a1-a07a-261bed9cc95f",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 1
+      },
+      {
+        "key": "frames_rendered",
+        "value": 15
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.06666666666666667
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-05-30T10:54:07.793Z",
+    "context_application_version": "9.0.48.380",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1748602476147,
+    "context_time": 1748602447793,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "playlist/folder"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "32c68030-7aad-40dc-ac5b-0a82c4505786",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 427
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:09:28.568Z",
+    "context_application_version": "9.0.60.614",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1752527390106,
+    "context_time": 1752527368568,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "c767f605-0d71-4c20-8a1b-aa5ce7b18b1a",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 2
+      },
+      {
+        "key": "frames_rendered",
+        "value": 12
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.16666666666666666
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-20T22:01:08.952Z",
+    "context_application_version": "9.0.54.518",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1750456895181,
+    "context_time": 1750456868952,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary/search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "84059817-c18e-459f-a100-8727d14a4717",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.07692307692307693
+      },
+      {
+        "key": "frames_rendered",
+        "value": 26
+      },
+      {
+        "key": "jank_frames",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-11T15:17:09.694Z",
+    "context_application_version": "9.0.50.416",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1749685592463,
+    "context_time": 1749655029694,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "98855fff-6caf-4eca-bcce-be0326fb8153",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.09090909090909091
+      },
+      {
+        "key": "frames_rendered",
+        "value": 11
+      },
+      {
+        "key": "jank_frames",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-06-20T23:22:08.028Z",
+    "context_application_version": "9.0.54.518",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1750461755137,
+    "context_time": 1750461728028,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "yourlibrary/search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "314ae264-a8d3-4712-ab14-ba716843d3dd",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0
+      },
+      {
+        "key": "frames_rendered",
+        "value": 14
+      },
+      {
+        "key": "jank_frames",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-07T23:17:09.711Z",
+    "context_application_version": "9.0.58.596",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1751930237159,
+    "context_time": 1751930229711,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "search"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "12e40d61-16a7-428e-9399-ddd84530a096",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.06666666666666667
+      },
+      {
+        "key": "frames_rendered",
+        "value": 45
+      },
+      {
+        "key": "jank_frames",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2025-07-26T23:02:29.851Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753586272621,
+    "context_time": 1753570949851,
+    "message_aspect": "scroll_performance",
+    "message_dimensions": [
+      {
+        "key": "page_identifier",
+        "value": "home"
+      }
+    ],
+    "message_experience": "page_session",
+    "message_measurement_id": "ca6c7100-2912-407b-9a8e-77507db355ae",
+    "message_metadata": [
+    ],
+    "message_metrics": [
+      {
+        "key": "jank_frames",
+        "value": 3
+      },
+      {
+        "key": "frames_rendered",
+        "value": 14
+      },
+      {
+        "key": "jank_frames_ratio",
+        "value": 0.21428571428571427
+      }
+    ]
+  }
+]

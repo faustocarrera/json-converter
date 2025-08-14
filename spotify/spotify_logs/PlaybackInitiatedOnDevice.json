@@ -1,0 +1,162 @@
+[
+  {
+    "timestamp_utc": "2025-07-14T22:04:48.446Z",
+    "context_time": 1752530688446,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:00:20.273Z",
+    "context_time": 1752530420273,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:00:20.056Z",
+    "context_time": 1752530420056,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:49:04.869Z",
+    "context_time": 1752529744869,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:15:00.469Z",
+    "context_time": 1752527700469,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:39:55.821Z",
+    "context_time": 1752529195821,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:27:50.679Z",
+    "context_time": 1752528470679,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:53:17.352Z",
+    "context_time": 1752529997352,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:27:50.666Z",
+    "context_time": 1752528470666,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:18:18.970Z",
+    "context_time": 1752527898970,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:11:48.990Z",
+    "context_time": 1752531108990,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:36:07.979Z",
+    "context_time": 1752528967979,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:17:25.283Z",
+    "context_time": 1752531445283,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:11:49.128Z",
+    "context_time": 1752531109128,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:15:00.409Z",
+    "context_time": 1752527700409,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:07:21.164Z",
+    "context_time": 1752530841164,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:44:16.486Z",
+    "context_time": 1752529456486,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:23:12.653Z",
+    "context_time": 1752528192653,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:53:17.409Z",
+    "context_time": 1752529997409,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:23:12.476Z",
+    "context_time": 1752528192476,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:07:21.388Z",
+    "context_time": 1752530841388,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:44:16.456Z",
+    "context_time": 1752529456456,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:36:07.879Z",
+    "context_time": 1752528967879,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:56:38.456Z",
+    "context_time": 1752530198456,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:31:18.204Z",
+    "context_time": 1752528678204,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:04:48.391Z",
+    "context_time": 1752530688391,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:18:19.066Z",
+    "context_time": 1752527899066,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:56:38.385Z",
+    "context_time": 1752530198385,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:39:55.837Z",
+    "context_time": 1752529195837,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T22:17:25.365Z",
+    "context_time": 1752531445365,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:49:04.673Z",
+    "context_time": 1752529744673,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  },
+  {
+    "timestamp_utc": "2025-07-14T21:31:18.097Z",
+    "context_time": 1752528678097,
+    "message_playing_device_id": "d6ec14062dc91da4a920a0a62a85342c"
+  }
+]

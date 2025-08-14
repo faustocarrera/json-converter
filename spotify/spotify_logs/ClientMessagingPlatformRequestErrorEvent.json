@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp_utc": "2025-07-26T20:50:11.871Z",
+    "context_application_version": "9.0.64.608",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "motorola",
+    "context_device_model": "moto g72",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1753582582353,
+    "context_time": 1753563011871,
+    "message_error_details": "Unable to resolve host \"spclient.wg.spotify.com\": No address associated with hostname",
+    "message_error_reason": "BACKEND_ERROR",
+    "message_opportunity_id": "a958b92c-e0af-4f9d-8791-c5fd555df45f",
+    "message_trigger": "spotify:track:6ZOBP3NvffbU4SZcrnt1k6"
+  }
+]

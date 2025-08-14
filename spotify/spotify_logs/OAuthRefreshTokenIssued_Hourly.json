@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp_utc": "2025-07-14T21:09:37.768Z",
+    "context_time": 1752527377768,
+    "message_client_id": "d7df0887fb71494ea994202cb473eae7",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,radio-modify,user-follow-read,user-read-private,streaming,user-follow-modify,user-library-read,user-personalized,radio-read,user-library-modify,playlist-modify-public,user-top-read",
+    "message_session_created_at": null,
+    "message_session_id": "c3aa2209-701b-493b-9e08-541c10fb6f3c"
+  }
+]

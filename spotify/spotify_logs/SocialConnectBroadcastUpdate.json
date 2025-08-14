@@ -1,0 +1,392 @@
+[
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-12T11:41:30.533Z",
+    "context_time": 1752320490533,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": "moto g72",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-08T12:46:46.586Z",
+    "context_time": 1754657206586,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": "Moto G72",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-18T19:55:39.523Z",
+    "context_time": 1752868539523,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-18T19:30:23.219Z",
+    "context_time": 1752867023219,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "WH-CH510",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-12T22:02:02.550Z",
+    "context_time": 1752357722550,
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_mdns_token": "2LpOwkooCnKHONtY4SInEo",
+    "message_output_device_name": "Mi Pocket Speaker 2",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": "2H8MpnQe9KskohjYYljoOS"
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-05T21:15:15.854Z",
+    "context_time": 1754428515854,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "Philips TAA6606",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-18T17:41:28.359Z",
+    "context_time": 1752860488359,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-17T12:11:02.843Z",
+    "context_time": 1752754262843,
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_mdns_token": "0oDM9ZG7hBv2BVZMmRU8U6",
+    "message_output_device_name": "Mi Pocket Speaker 2",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": "5CuQJMeXsbaE26h24EZbbo"
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-25T21:39:46.819Z",
+    "context_time": 1753479586819,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-14T21:09:36.793Z",
+    "context_time": 1752527376793,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": "Moto G72",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-30T18:42:38.656Z",
+    "context_time": 1753900958656,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-09T15:33:34.547Z",
+    "context_time": 1754753614547,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": "moto g72",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-12T14:27:26.682Z",
+    "context_time": 1752330446682,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "Philips TAA6606",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-14T21:09:34.128Z",
+    "context_time": 1752527374128,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-08-08T15:44:41.362Z",
+    "context_time": 1754667881362,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-29T19:52:27.174Z",
+    "context_time": 1753818747174,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-09T21:03:08.598Z",
+    "context_time": 1754773388598,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-01T23:30:10.239Z",
+    "context_time": 1754091010239,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": "moto g72",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "d6ec14062dc91da4a920a0a62a85342c",
+    "timestamp_utc": "2025-07-14T21:09:41.461Z",
+    "context_time": 1752527381461,
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_mdns_token": "3nF9cgRhNglAPMa4gxOTj0",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "1jhzkUMeDbioAWMr54fBbF"
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-25T21:39:48.667Z",
+    "context_time": 1753479588667,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": "moto g72",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-30T20:07:43.612Z",
+    "context_time": 1753906063612,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-08-08T17:53:58.766Z",
+    "context_time": 1754675638766,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "WH-CH510",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-17T13:00:40.613Z",
+    "context_time": 1752757240613,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": "Moto G72",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-09T15:33:33.043Z",
+    "context_time": 1754753613043,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-09T21:03:10.543Z",
+    "context_time": 1754773390543,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": "Moto G72",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-01T23:30:08.839Z",
+    "context_time": 1754091008839,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-19T13:39:01.502Z",
+    "context_time": 1752932341502,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-08T12:24:07.667Z",
+    "context_time": 1754655847667,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "WH-CH510",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-08-06T15:31:32.559Z",
+    "context_time": 1754494292559,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-12T23:04:14.891Z",
+    "context_time": 1752361454891,
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_mdns_token": "5CqpgtqUQA4kjQtKbxFGUo",
+    "message_output_device_name": "Mi Pocket Speaker 2",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": "4p4vPNq7ETv0hVe6Up9RJW"
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-17T13:00:39.152Z",
+    "context_time": 1752757239152,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-18T18:13:50.388Z",
+    "context_time": 1752862430388,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "WH-CH510",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-19T14:29:57.489Z",
+    "context_time": 1752935397489,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-08-08T12:56:09.683Z",
+    "context_time": 1754657769683,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "WH-CH510",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-27T15:01:40.451Z",
+    "context_time": 1753628500451,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "853d270fae79a98aa0e3408b70122706c8f2ac37",
+    "timestamp_utc": "2025-07-18T20:19:31.980Z",
+    "context_time": 1752869971980,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "WH-CH510",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-27T15:01:42.040Z",
+    "context_time": 1753628502040,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "moto g72",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-12T11:48:12.967Z",
+    "context_time": 1752320892967,
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_mdns_token": null,
+    "message_output_device_name": "Philips TAA6606",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null
+  },
+  {
+    "message_device_id": "2f8aa6add6d1574ec2ae01fb56d4e8d421bc017a",
+    "timestamp_utc": "2025-07-12T11:41:28.589Z",
+    "context_time": 1752320488589,
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_mdns_token": null,
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null
+  }
+]

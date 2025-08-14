@@ -1,0 +1,50 @@
+[
+  {
+    "message_card_bin": "52121900",
+    "message_merchant_ref": null,
+    "timestamp_utc": "2025-04-22T12:57:46.096Z",
+    "context_time": 1745326666096,
+    "message_country": "AR",
+    "message_transaction_type": "initial"
+  },
+  {
+    "message_card_bin": "52121900",
+    "message_merchant_ref": null,
+    "timestamp_utc": "2025-05-14T17:07:05.737Z",
+    "context_time": 1747242425737,
+    "message_country": "AR",
+    "message_transaction_type": "recurring"
+  },
+  {
+    "message_card_bin": "52121900",
+    "message_merchant_ref": null,
+    "timestamp_utc": "2025-07-14T17:07:04.262Z",
+    "context_time": 1752512824262,
+    "message_country": "AR",
+    "message_transaction_type": "recurring"
+  },
+  {
+    "message_card_bin": "52187281",
+    "message_merchant_ref": null,
+    "timestamp_utc": "2025-04-14T17:07:01.724Z",
+    "context_time": 1744650421724,
+    "message_country": "AR",
+    "message_transaction_type": "recurring"
+  },
+  {
+    "message_card_bin": "52187281",
+    "message_merchant_ref": null,
+    "timestamp_utc": "2025-03-14T17:07:01.064Z",
+    "context_time": 1741972021064,
+    "message_country": "AR",
+    "message_transaction_type": "recurring"
+  },
+  {
+    "message_card_bin": "52121900",
+    "message_merchant_ref": null,
+    "timestamp_utc": "2025-06-14T17:07:02.909Z",
+    "context_time": 1749920822909,
+    "message_country": "AR",
+    "message_transaction_type": "recurring"
+  }
+]

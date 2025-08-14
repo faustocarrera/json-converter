@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp_utc": "2025-07-29T20:56:32.237Z",
+    "context_application_version": "1.2.68.528",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "LENOVO",
+    "context_device_model": "20U4S4T000",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1753822613928,
+    "context_time": 1753822592237,
+    "message_additional_data": "Failed to get current padding: 0x88890004 (Unknown error 0x88890004)",
+    "message_driver_name": "WASAPIRenderer",
+    "message_error_code": -2004287484,
+    "message_location": "spotify::playback::WasapiRenderer::read"
+  }
+]

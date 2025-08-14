@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp_utc": "2025-07-17T11:15:47.572Z",
+    "context_application_version": "1.0.0.1",
+    "context_conn_country": "AR",
+    "context_receiver_service_timestamp": 1752750960808,
+    "context_time": 1752750947572,
+    "context_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+    "message_market": "us",
+    "message_name": "makeSAR",
+    "message_reason": "exception",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2025-07-17T11:14:07.629Z",
+    "context_application_version": "1.0.0.1",
+    "context_conn_country": "AR",
+    "context_receiver_service_timestamp": 1752750847959,
+    "context_time": 1752750847629,
+    "context_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+    "message_market": "us",
+    "message_name": "togglePrivacyCategory",
+    "message_reason": "exception",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2025-07-17T11:16:10.357Z",
+    "context_application_version": "1.0.0.1",
+    "context_conn_country": "AR",
+    "context_receiver_service_timestamp": 1752750970605,
+    "context_time": 1752750970357,
+    "context_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+    "message_market": "us",
+    "message_name": "confirmSAR",
+    "message_reason": "exception",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2025-07-18T10:58:14.357Z",
+    "context_application_version": "1.0.0.1",
+    "context_conn_country": "AR",
+    "context_receiver_service_timestamp": 1752836294630,
+    "context_time": 1752836294357,
+    "context_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+    "message_market": "us",
+    "message_name": "downloadSAR",
+    "message_reason": "exception",
+    "message_success": true
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp_utc": "2025-07-25T21:48:25.568Z",
+    "context_time": 1753480105568,
+    "message_client_platform": 6,
+    "message_item_uri": "spotify:playlist:1JnTKPkNcVfpJMGF6fhZ1h",
+    "message_item_uri_kind": "playlist_v2"
+  }
+]
