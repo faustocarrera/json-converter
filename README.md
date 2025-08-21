@@ -38,11 +38,17 @@ pip install -r requirements.txt
 
 
 ```bash
-python json-converter.py myfile.json
-python json-converter.py ./inputfolder
-python json-converter.py ./inputfolder --recursive
-python json-converter.py ./inputfolder --output-dir ./outputfolder
-python json-converter.py ./inputfolder --verbose
+python converter.py myfile.json
+python converter.py ./inputfolder
+python converter.py ./inputfolder --recursive
+python converter.py ./inputfolder --output-dir ./outputfolder
+python converter.py ./inputfolder --verbose
+```
+
+## E.g.
+
+```bash
+python converter.py input/Streaming_History.json --output-dir output/
 ```
 
 ## Contributing
