@@ -40,17 +40,14 @@ pip install -r requirements.txt
 ```bash
 python json-converter.py myfile.json
 python json-converter.py ./inputfolder
+python json-converter.py ./inputfolder --recursive
 python json-converter.py ./inputfolder --output-dir ./outputfolder
 python json-converter.py ./inputfolder --verbose
 ```
 
----
-
 ## Contributing
 
 We welcome contributions! If you'd like to improve the **JSON Converter** or report an issue, please see our contributing guidelines.
-
----
 
 ## License
 
