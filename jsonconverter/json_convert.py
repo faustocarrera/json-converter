@@ -7,16 +7,18 @@ import json
 from pathlib import Path
 import pandas as pd
 from .csv_export import CSVexport
+from .sql_export import SQLexport
 from .verbose_logger import VerboseLogger
 
 
 class JSONconvert():
     "Convert JSON files to other formats"
 
-    def __init__(self, input_path, recursive=False, output_dir=None, verbose=False) -> None:
+    def __init__(self, input_path, recursive=False, output_dir=None, format='csv', verbose=False) -> None:
         self.input_path = input_path
         self.recursive = recursive
         self.output_dir = output_dir
+        self.format = format
         self.logger = VerboseLogger(verbose)
 
     def convert(self) -> list:
@@ -50,7 +52,7 @@ class JSONconvert():
                 json_files = list(input_path.rglob('*.json'))
             else:
                 json_files = self.__find_json_files(input_path)
-
+            # no json files found
             if not json_files:
                 print(f"No JSON files found in {input_path}")
                 sys.exit(1)
@@ -67,19 +69,23 @@ class JSONconvert():
         except OSError as e:
             print(f"Error reading directory {path}: {e}")
             return []
-        
+
     def __export_json_data(self, json_files: list) -> list:
         "Read and flatten JSON files"
-        csv_export = CSVexport(self.logger)
+        exporter = self.__get_exporter()
         exported_files = []
         for file in json_files:
             with open(file, 'r', encoding='utf-8') as f:
                 json_data = json.load(f)
                 flattened_data = self.__flatten_json(json_data)
-                output_file = self.__get_csv_filename(file)
-                # export
-                if csv_export.export(flattened_data, output_file):
-                    exported_files.append(output_file.absolute())
+                if self.format == 'csv':  # export csv
+                    output_file = self.__get_output_filename(file, '.csv')
+                    if exporter.export(flattened_data, output_file):
+                        exported_files.append(output_file.absolute())
+                if self.format == 'sql':
+                    output_file = self.__get_output_filename(file, '.sql')
+                    if exporter.export(flattened_data, output_file):
+                        exported_files.append(output_file.absolute())
         return exported_files
 
     def __flatten_json(self, json_data: dict) -> list:
@@ -92,9 +98,17 @@ class JSONconvert():
         if output_dir:
             output_dir.mkdir(parents=True, exist_ok=True)
 
-    def __get_csv_filename(self, json_file: Path) -> Path:
+    def __get_output_filename(self, json_file: Path, ext: str) -> Path:
         "Get csv file path"
-        csv_filename = json_file.name.replace('.json', '.csv')
+        csv_filename = json_file.name.replace('.json', ext)
         if self.output_dir:
             return self.output_dir / csv_filename
         return Path(csv_filename)
+
+    def __get_exporter(self):
+        "Get the appropriate exporter class"
+        if self.format == 'csv':
+            return CSVexport(self.logger)
+        if self.format == 'sql':
+            return SQLexport(self.logger)
+        raise ValueError(f"Unsupported format: {self.format}")

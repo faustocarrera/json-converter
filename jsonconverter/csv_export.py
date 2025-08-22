@@ -35,6 +35,7 @@ class CSVexport():
             rows = [{'value': data}]
             fieldnames = ['value']
 
+        self.logger.log(f"Exporting to {output_file}")
         # Write CSV file
         with open(output_file, 'w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)

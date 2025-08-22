@@ -13,7 +13,6 @@ The **JSON Converter** takes a structured, valid JSON input, flatten the structu
 - **Flexible input:** Accepts both individual JSON files and directories
 - **Automatic file discovery:** Finds all .json files in a directory
 - **Smart JSON handling:** Processes different JSON structures (arrays, objects, simple values)
-- **Nested structure flattening:** Automatically flattens nested JSON objects (can be disabled)
 - **Error handling:** Graceful handling of invalid JSON and file errors
 
 ## How it works:
