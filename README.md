@@ -21,6 +21,7 @@ The **JSON Converter** takes a structured, valid JSON input, flatten the structu
 - **Structure Analysis:** Handles different JSON formats (arrays of objects, single objects, simple values)
 - **Flattening:** Converts nested JSON structures to flat CSV columns (e.g., user.address.city)
 - **CSV Generation:** Creates CSV files with the same base name as the JSON files
+- **SQL Generation:** Creates SQL files with the same base name as the JSON files
 - **Error Reporting:** Provides clear feedback on conversion success/failure
 
 The script intelligently handles various JSON structures and creates well-formatted CSV files that preserve all the data from your JSON files.
@@ -42,12 +43,13 @@ python converter.py ./inputfolder
 python converter.py ./inputfolder --recursive
 python converter.py ./inputfolder --output-dir ./outputfolder
 python converter.py ./inputfolder --verbose
+python converter.py ./inputfolder --output-format csv
 ```
 
 ## E.g.
 
 ```bash
-python converter.py input/Streaming_History.json --output-dir output/
+python converter.py input/Streaming_History.json --output-dir output/ --output-format csv --verbose
 ```
 
 ## Contributing

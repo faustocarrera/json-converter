@@ -43,8 +43,11 @@ class SQLexport():
     def __generate_sql_script(self, table_name: str, columns: dict, data: Union[Dict, List]) -> str:
         "Generate SQL script for creating table and inserting data"
         sql_script = f"CREATE TABLE {table_name} (\n"
+        # Default primary key
+        sql_script += "  id INT NOT NULL AUTO_INCREMENT,\n"
         for column, col_type in columns.items():
             sql_script += f"  {column} {col_type},\n"
+        sql_script += "  PRIMARY KEY (id)\n"
         sql_script = sql_script.rstrip(",\n") + "\n);\n\n"
         # Insert data
         for record in data:
