@@ -6,8 +6,9 @@ import sys
 import json
 from pathlib import Path
 import pandas as pd
-from .csv_export import CSVexport
-from .sql_export import SQLexport
+from .exporter.csv_export import CSVexport
+from .exporter.sql_export import SQLexport
+from .exporter.xml_export import XMLexport
 from .verbose_logger import VerboseLogger
 
 
@@ -86,6 +87,10 @@ class JSONconvert():
                     output_file = self.__get_output_filename(file, '.sql')
                     if exporter.export(flattened_data, output_file):
                         exported_files.append(output_file.absolute())
+                if self.format == 'xml':
+                    output_file = self.__get_output_filename(file, '.xml')
+                    if exporter.export(flattened_data, output_file):
+                        exported_files.append(output_file.absolute())
         return exported_files
 
     def __flatten_json(self, json_data: dict) -> list:
@@ -94,16 +99,16 @@ class JSONconvert():
 
     @staticmethod
     def __make_output_dir(output_dir: Path) -> None:
-        "Create destination"
+        "Create destination directory if it doesn't exist"
         if output_dir:
             output_dir.mkdir(parents=True, exist_ok=True)
 
     def __get_output_filename(self, json_file: Path, ext: str) -> Path:
-        "Get csv file path"
-        csv_filename = json_file.name.replace('.json', ext)
+        "Get output file path"
+        output_filename = json_file.name.replace('.json', ext)
         if self.output_dir:
-            return self.output_dir / csv_filename
-        return Path(csv_filename)
+            return self.output_dir / output_filename
+        return Path(output_filename)
 
     def __get_exporter(self):
         "Get the appropriate exporter class"
@@ -111,4 +116,6 @@ class JSONconvert():
             return CSVexport(self.logger)
         if self.format == 'sql':
             return SQLexport(self.logger)
+        if self.format == 'xml':
+            return XMLexport(self.logger)
         raise ValueError(f"Unsupported format: {self.format}")
