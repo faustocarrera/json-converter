@@ -14,6 +14,7 @@ The **JSON Converter** takes a structured, valid JSON input, flatten the structu
 - **Automatic file discovery:** Finds all .json files in a directory
 - **Smart JSON handling:** Processes different JSON structures (arrays, objects, simple values)
 - **Error handling:** Graceful handling of invalid JSON and file errors
+- **Different output formats:** Export JSON data to CSV, XML and SQL
 
 ## How it works:
 
