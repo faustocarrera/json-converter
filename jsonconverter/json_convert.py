@@ -15,29 +15,34 @@ from .verbose_logger import VerboseLogger
 class JSONconvert():
     "Convert JSON files to other formats"
 
-    def __init__(self, input_path, recursive=False, output_dir=None, format='csv', verbose=False) -> None:
-        self.input_path = input_path
-        self.recursive = recursive
-        self.output_dir = output_dir
-        self.format = format
+    def __init__(self, verbose=False) -> None:
         self.logger = VerboseLogger(verbose)
+        self.supported_formats = ['csv', 'sql', 'xml']
 
-    def convert(self) -> list:
+    def convert(self, input_path: Path, output_dir: Path, output_format: str = 'csv', recursive=False) -> list:
         "Perform the conversion"
-        self.logger.log(f"Starting conversion for: {self.input_path}")
+        self.logger.log(f"Starting conversion for: {input_path}")
         self.logger.log('Get the JSON list of files')
+        # force output format to lower case
+        output_format = output_format.lower()
+        # check the output format
+        if output_format not in self.supported_formats:
+            print(f"Error: Unsupported output format '{output_format}'. Supported formats are: {', '.join(self.supported_formats)}")
+            sys.exit(1)
         # get json files
-        json_files = self.__get_json_files(self.input_path, self.recursive)
+        json_files = self.__get_json_files(input_path, recursive)
         # log the number of json files found
         if self.logger:
             self.logger.log(f"Found {len(json_files)} JSON files")
         # output dir
-        if self.output_dir:
-            self.__make_output_dir(self.output_dir)
+        if output_dir:
+            self.__make_output_dir(output_dir)
         # flatten the json files
-        exported_files = self.__export_json_data(json_files)
+        exported_files = self.__export_json_data(
+            json_files, output_format, output_dir)
         # check the files
-        self.logger.log(f"Exported {len(exported_files)} files to CSV format")
+        self.logger.log(
+            f"Exported {len(exported_files)} files to {output_format} format")
         self.logger.log("Conversion complete")
         return exported_files
 
@@ -71,26 +76,21 @@ class JSONconvert():
             print(f"Error reading directory {path}: {e}")
             return []
 
-    def __export_json_data(self, json_files: list) -> list:
+    def __export_json_data(self, json_files: list, output_format: str, output_dir: Path) -> list:
         "Read and flatten JSON files"
-        exporter = self.__get_exporter()
+        exporter = self.__get_exporter(output_format)
         exported_files = []
         for file in json_files:
             with open(file, 'r', encoding='utf-8') as f:
                 json_data = json.load(f)
                 flattened_data = self.__flatten_json(json_data)
-                if self.format == 'csv':  # export csv
-                    output_file = self.__get_output_filename(file, '.csv')
-                    if exporter.export(flattened_data, output_file):
-                        exported_files.append(output_file.absolute())
-                if self.format == 'sql':
-                    output_file = self.__get_output_filename(file, '.sql')
-                    if exporter.export(flattened_data, output_file):
-                        exported_files.append(output_file.absolute())
-                if self.format == 'xml':
-                    output_file = self.__get_output_filename(file, '.xml')
-                    if exporter.export(flattened_data, output_file):
-                        exported_files.append(output_file.absolute())
+                output_file = self.__get_output_filename(
+                    output_dir,
+                    file,
+                    f".{output_format}"
+                )
+                if exporter.export(flattened_data, output_file):
+                    exported_files.append(output_file.absolute())
         return exported_files
 
     def __flatten_json(self, json_data: dict) -> list:
@@ -103,19 +103,19 @@ class JSONconvert():
         if output_dir:
             output_dir.mkdir(parents=True, exist_ok=True)
 
-    def __get_output_filename(self, json_file: Path, ext: str) -> Path:
+    def __get_output_filename(self, output_dir: Path, json_file: Path, ext: str) -> Path:
         "Get output file path"
         output_filename = json_file.name.replace('.json', ext)
-        if self.output_dir:
-            return self.output_dir / output_filename
+        if output_dir:
+            return output_dir / output_filename
         return Path(output_filename)
 
-    def __get_exporter(self):
+    def __get_exporter(self, output_format: str):
         "Get the appropriate exporter class"
-        if self.format == 'csv':
+        if output_format == 'csv':
             return CSVexport(self.logger)
-        if self.format == 'sql':
+        if output_format == 'sql':
             return SQLexport(self.logger)
-        if self.format == 'xml':
+        if output_format == 'xml':
             return XMLexport(self.logger)
-        raise ValueError(f"Unsupported format: {self.format}")
+        raise ValueError(f"Unsupported format: {output_format}")

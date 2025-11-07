@@ -1,4 +1,5 @@
 CREATE TABLE Streaming_History (
+  id INT NOT NULL AUTO_INCREMENT,
   ts VARCHAR(255),
   platform VARCHAR(255),
   ms_played INTEGER,
@@ -21,7 +22,8 @@ CREATE TABLE Streaming_History (
   skipped BOOLEAN,
   offline BOOLEAN,
   offline_timestamp REAL,
-  incognito_mode BOOLEAN
+  incognito_mode BOOLEAN,
+  PRIMARY KEY (id)
 );
 
 INSERT INTO Streaming_History (ts, platform, ms_played, conn_country, ip_addr, master_metadata_track_name, master_metadata_album_artist_name, master_metadata_album_album_name, spotify_track_uri, episode_name, episode_show_name, spotify_episode_uri, audiobook_title, audiobook_uri, audiobook_chapter_uri, audiobook_chapter_title, reason_start, reason_end, shuffle, skipped, offline, offline_timestamp, incognito_mode) VALUES ('2021-12-26T15:56:01Z', 'Windows 10 (10.0.19044; x64)', 257757, 'AR', '0.0.0.0', 'Stupid Girl - 2015 - Remaster', 'Garbage', 'Garbage', 'spotify:track:02bDwHxd8UuWJyeytiohaK', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'trackdone', 'trackdone', TRUE, FALSE, FALSE, nan, FALSE);
