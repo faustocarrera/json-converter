@@ -29,10 +29,10 @@ class CSVexport():
             all_keys = set()
             for row in rows:
                 all_keys.update(row.keys())
-            fieldnames = sorted(all_keys)
+            fieldnames = all_keys
         elif isinstance(data, dict):
             rows = [data]
-            fieldnames = sorted(data.keys())
+            fieldnames = data.keys()
         else:
             # Simple value
             rows = [{'value': data}]

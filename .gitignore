@@ -208,3 +208,5 @@ __marimo__/
 
 # JSON converter
 *.base.py
+.agents/
+reports/
